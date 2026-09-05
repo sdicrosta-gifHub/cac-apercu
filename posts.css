@@ -1,0 +1,76 @@
+
+*{box-sizing:border-box;margin:0;padding:0}
+html{-webkit-text-size-adjust:100%}
+body{background:#000000;color:#D3D3CB;font-family:Inter,-apple-system,"Helvetica Neue",Arial,sans-serif;
+      line-height:1.45;font-size:16px;padding-bottom:96px}
+a{color:#C4A265;text-decoration:none}
+.bandeau{position:sticky;top:0;z-index:5;background:#0b0b0b;border-bottom:1px solid #1e1e1e;
+         padding:12px 14px 10px}
+.bandeau h1{font-size:15px;letter-spacing:.4px;text-transform:uppercase;color:#D3D3CB;font-weight:600}
+.bandeau .compte{margin-top:4px;font-size:13px;color:#8f8f88}
+.bandeau .compte b{color:#C4A265}
+.onglets{display:flex;gap:6px;overflow-x:auto;padding:10px 14px 0;scrollbar-width:none}
+.onglets::-webkit-scrollbar{display:none}
+.onglets a{flex:0 0 auto;padding:12px 16px;border:1px solid #2a2a2a;border-radius:22px;
+           font-size:14px;color:#9a9a93;white-space:nowrap}
+.onglets a.on{background:#C4A265;border-color:#C4A265;color:#000;font-weight:600}
+.liste{padding:14px}
+.post{background:#111;border:1px solid #1f1f1f;border-radius:14px;margin-bottom:18px;overflow:hidden}
+.tete{padding:14px 14px 10px}
+.tete .ligne1{display:flex;align-items:center;gap:8px;flex-wrap:wrap}
+.pastille{font-size:11px;letter-spacing:.5px;text-transform:uppercase;padding:3px 9px;
+          border-radius:20px;border:1px solid currentColor;font-weight:600}
+.regime{font-size:11px;letter-spacing:.5px;text-transform:uppercase;color:#7d7d76}
+.tete h2{font-size:17px;margin-top:8px;color:#fff;font-weight:600}
+.tete .quand{margin-top:3px;font-size:13px;color:#8f8f88}
+.tete .quand b{color:#D3D3CB}
+.alerte{margin:10px 14px 0;padding:10px 12px;border-left:3px solid #C4544A;background:#1a1010;
+        border-radius:0 8px 8px 0;font-size:13.5px;color:#e7d9d7}
+.alerte b{color:#fff}
+.bande{display:flex;gap:8px;overflow-x:auto;scroll-snap-type:x mandatory;
+       -webkit-overflow-scrolling:touch;padding:12px 14px;scrollbar-width:none}
+.bande::-webkit-scrollbar{display:none}
+.dia{flex:0 0 62%;scroll-snap-align:center;max-width:260px}
+.dia img{width:100%;display:block;border-radius:10px;background:#000}
+.dia .sous{display:flex;justify-content:space-between;align-items:center;margin-top:6px;
+           font-size:12px;color:#7d7d76}
+.dia .sous a{padding:14px 14px;background:#181818;border:1px solid #2f2f2f;border-radius:8px;color:#9a9a93;
+              font-size:13px;line-height:1.1}
+.legende{padding:2px 14px 12px}
+.etiq{font-size:11px;text-transform:uppercase;letter-spacing:.5px;color:#7d7d76;margin-bottom:6px}
+.legende textarea{width:100%;min-height:150px;background:#0b0b0b;color:#D3D3CB;border:1px solid #2a2a2a;
+                  border-radius:10px;padding:12px;font-size:14.5px;font-family:inherit;line-height:1.5}
+.legende .mini{margin-top:8px;font-size:13px;color:#7d7d76}
+.actions{display:flex;flex-direction:column;gap:10px;padding:0 14px 16px}
+.actions button{width:100%;min-height:58px;border-radius:12px;border:0;font-size:17px;font-weight:600;
+                font-family:inherit;cursor:pointer}
+.b-oui{background:#C4A265;color:#000}
+.b-plus-tard{background:#1c1c1c;color:#D3D3CB;border:1px solid #333 !important}
+.b-non{background:#1c1c1c;color:#C4544A;border:1px solid #40201e !important}
+.b-texte{background:transparent;color:#8f8f88;min-height:44px !important;font-size:14px !important;
+         text-decoration:underline}
+.publie{padding:0 14px 16px;font-size:14px;color:#8f8f88}
+.pied{padding:6px 14px 30px;text-align:center}
+.pied form button{width:100%;min-height:52px;border-radius:12px;background:#141414;color:#9a9a93;
+                  border:1px solid #2a2a2a;font-size:15px;font-family:inherit}
+.pied p{margin-top:14px;font-size:12px;color:#5f5f5a;line-height:1.6}
+.vide{padding:40px 20px;text-align:center;color:#7d7d76;font-size:15px}
+@media (min-width:760px){
+  .liste{max-width:720px;margin:0 auto}
+  .dia{flex:0 0 200px}
+  .actions{flex-direction:row}
+}
+
+.e-propose{color:#C4A265}
+.e-programme{color:#5B8CC4}
+.e-publie{color:#5FA65F}
+.e-refuse{color:#8A8A8A}
+.e-reporte{color:#B07A2B}
+.e-gele{color:#8A8A8A}
+.e-retire{color:#8A8A8A}
+.e-echec{color:#C4544A}
+.cta{position:sticky;top:0;z-index:99;display:block;
+     background:#C4A265;color:#000;text-decoration:none;text-align:center;
+     font:800 17px/1.25 -apple-system,system-ui,sans-serif;letter-spacing:.01em;
+     padding:18px 16px;box-shadow:0 6px 22px rgba(0,0,0,.55);}
+.cta:active{background:#d8b878;}
