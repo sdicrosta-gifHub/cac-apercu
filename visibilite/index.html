@@ -1,0 +1,242 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="robots" content="noindex,nofollow">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Cars and Cars sur les GPS</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@600;700&family=Barlow:wght@400;500;600&family=IBM+Plex+Mono:wght@500&display=swap">
+<style>
+/* Palette tirée de l'identité Cars and Cars : noir atelier, crème, or. */
+:root{
+  --fond:#ECEBE6; --surface:#F7F6F2; --encre:#141412; --doux:#5C5A52; --ligne:#D2D0C7;
+  --or:#86692C; --or-fond:#EFE4CC;
+  --juste:#2F7A4B; --juste-fond:#DCEEDF;
+  --faux:#A8481A; --faux-fond:#F6E1D4;
+  --neutre:#5C5A52; --neutre-fond:#E2E0D8;
+  --affiche:"Barlow Condensed","Arial Narrow",Arial,sans-serif;
+  --texte:"Barlow","Helvetica Neue",Arial,sans-serif;
+  --chiffre:"IBM Plex Mono",ui-monospace,Menlo,monospace;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --fond:#0B0B0A; --surface:#151513; --encre:#E8E6DF; --doux:#A09D93; --ligne:#2B2A26;
+    --or:#C4A265; --or-fond:#2A2419;
+    --juste:#72C58F; --juste-fond:#16261C;
+    --faux:#E6905E; --faux-fond:#2B1B12;
+    --neutre:#A09D93; --neutre-fond:#22211E;
+  }
+}
+:root[data-theme="dark"]{
+  --fond:#0B0B0A; --surface:#151513; --encre:#E8E6DF; --doux:#A09D93; --ligne:#2B2A26;
+  --or:#C4A265; --or-fond:#2A2419;
+  --juste:#72C58F; --juste-fond:#16261C;
+  --faux:#E6905E; --faux-fond:#2B1B12;
+  --neutre:#A09D93; --neutre-fond:#22211E;
+}
+
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--fond);color:var(--encre);font:400 17px/1.55 var(--texte);
+  padding-inline:max(18px, env(safe-area-inset-left, 0px));padding-block:0 56px}
+.page{max-width:760px;margin:0 auto}
+
+/* En-tête */
+.bandeau{display:flex;align-items:center;justify-content:space-between;gap:12px;
+  padding-block:22px 18px;border-bottom:1px solid var(--ligne)}
+.marque{font:700 15px/1 var(--affiche);letter-spacing:.16em;text-transform:uppercase}
+.marque b{color:var(--or);font-weight:700}
+.releve{font:500 13px/1.2 var(--chiffre);color:var(--doux)}
+header.intro{padding-block:34px 8px}
+.surtitre{font:600 14px/1 var(--affiche);letter-spacing:.14em;text-transform:uppercase;color:var(--or);margin:0 0 12px}
+h1{font:700 clamp(34px,7.2vw,52px)/1.02 var(--affiche);letter-spacing:-.005em;margin:0 0 16px;text-wrap:balance;text-transform:uppercase}
+.chapeau{font-size:19px;max-width:62ch;margin:0;color:var(--encre)}
+.chapeau em{font-style:normal;color:var(--faux);font-weight:600}
+
+h2{font:700 clamp(24px,4.6vw,30px)/1.1 var(--affiche);text-transform:uppercase;letter-spacing:.01em;margin:0 0 6px;text-wrap:balance}
+.sous{color:var(--doux);margin:0 0 20px;max-width:62ch}
+section{padding-block:38px 0}
+
+/* Tableau des cartes */
+.cartes{list-style:none;margin:0;padding:0;border-top:1px solid var(--ligne)}
+.carte{display:grid;grid-template-columns:1fr auto;gap:4px 16px;padding:16px 0;border-bottom:1px solid var(--ligne)}
+.carte h3{font:700 22px/1.1 var(--affiche);text-transform:uppercase;margin:0;letter-spacing:.02em}
+.usage{grid-column:1/-1;font-size:14px;color:var(--doux);margin:0}
+.detail{grid-column:1/-1;margin:4px 0 0;max-width:64ch}
+.etat{align-self:start;font:600 13px/1 var(--affiche);letter-spacing:.08em;text-transform:uppercase;
+  padding:7px 10px 6px;border-radius:4px;white-space:nowrap}
+.etat.juste{color:var(--juste);background:var(--juste-fond)}
+.etat.faux{color:var(--faux);background:var(--faux-fond)}
+.etat.reprendre{color:var(--or);background:var(--or-fond)}
+.etat.neutre{color:var(--neutre);background:var(--neutre-fond)}
+.code{font:500 .9em var(--chiffre);white-space:nowrap}
+.fait{margin:18px 0 0;padding:14px 16px;background:var(--juste-fond);color:var(--encre);border-radius:6px;font-size:16px}
+.fait strong{color:var(--juste)}
+
+/* Actions de David : une vraie suite, dans l'ordre */
+.actions{list-style:none;counter-reset:etape;margin:0;padding:0;display:grid;gap:16px}
+.action{counter-increment:etape;background:var(--surface);border:1px solid var(--ligne);border-radius:8px;padding:20px 20px 18px;
+  display:grid;grid-template-columns:auto 1fr;column-gap:16px}
+.action::before{content:counter(etape);font:700 40px/.9 var(--affiche);color:var(--or);grid-row:1/span 3}
+.action h3{font:700 22px/1.15 var(--affiche);text-transform:uppercase;margin:2px 0 4px;letter-spacing:.02em}
+.duree{font:500 13px/1.3 var(--chiffre);color:var(--doux);margin:0 0 10px}
+.chemin{margin:0;padding:0;list-style:none;display:grid;gap:6px}
+.chemin li{padding-left:18px;position:relative}
+.chemin li::before{content:"›";position:absolute;left:2px;color:var(--or);font-weight:600}
+.cle{display:inline-block;font:500 15px/1.35 var(--chiffre);background:var(--or-fond);color:var(--encre);padding:1px 7px;border-radius:4px;word-break:break-all}
+.note{margin:12px 0 0;font-size:15px;color:var(--doux)}
+
+/* Colonnes : ce que je fais / ce que tu me dis */
+.deux{display:grid;grid-template-columns:1fr 1fr;gap:28px}
+.liste{margin:0;padding:0;list-style:none;display:grid;gap:10px}
+.liste li{padding:0 0 10px 0;border-bottom:1px solid var(--ligne)}
+.liste li:last-child{border-bottom:0}
+.liste strong{font-weight:600}
+.question{font-size:16px}
+
+footer{margin-top:48px;padding-top:18px;border-top:1px solid var(--ligne);color:var(--doux);font-size:14px}
+
+a{color:var(--or);text-underline-offset:3px}
+a:focus-visible{outline:2px solid var(--or);outline-offset:2px;border-radius:2px}
+
+@media (max-width:620px){
+  body{font-size:16px}
+  .chapeau{font-size:17px}
+  .deux{grid-template-columns:1fr;gap:34px}
+  .action{padding:18px 16px 16px;column-gap:12px}
+  .action::before{font-size:34px}
+  .carte{grid-template-columns:1fr}
+  .etat{justify-self:start;order:-1}
+  .carte h3{order:0}
+}
+</style>
+</head>
+<body>
+<div class="page">
+
+  <div class="bandeau">
+    <div class="marque">Cars <b>&amp;</b> Cars</div>
+    <div class="releve">Relevé du 16.09.2026</div>
+  </div>
+
+  <header class="intro">
+    <p class="surtitre">Le garage dans les GPS</p>
+    <h1>Le garage est déjà sur toutes les cartes. Trois se trompent.</h1>
+    <p class="chapeau">Quand un client tape « Cars and Cars » dans son téléphone ou dans l'écran de sa voiture, le garage sort partout. Mais selon la carte, il appelle un <em>mauvais numéro</em>, lit le <em>nom d'une autre entreprise</em> ou nous trouve <em>classés en électroménager</em>. Voici ce qu'on corrige, et les trois choses que toi seul peux faire.</p>
+  </header>
+
+  <section aria-labelledby="t-cartes">
+    <h2 id="t-cartes">Ce que voient les clients</h2>
+    <p class="sous">Chaque voiture lit sa carte chez un fournisseur différent. Vérifié carte par carte le 16 septembre.</p>
+
+    <ul class="cartes">
+      <li class="carte">
+        <h3>Google Maps</h3>
+        <span class="etat juste">Juste</span>
+        <p class="usage">Téléphones Android, Android Auto, Waze, voitures « Google intégré » (Renault, Volvo…)</p>
+        <p class="detail">Très bonne fiche : 4,7 ★ sur 40 avis, catégorie « Garage automobile », épingle à 10 m de l'adresse officielle. Une <strong>deuxième fiche</strong> existe à la même adresse, « Bureau de vente et administration », sans avis : on la règle ensemble.</p>
+      </li>
+      <li class="carte">
+        <h3>Apple Plans</h3>
+        <span class="etat reprendre">À reprendre en main</span>
+        <p class="usage">iPhone, CarPlay, Siri</p>
+        <p class="detail">Personne ne gère la fiche. Sur un iPhone en allemand, italien ou anglais, le garage s'appelle <strong>« Auto Occasions Mario Botta »</strong>, une entreprise radiée en 2017. Le lien « site web » renvoie vers Facebook.</p>
+      </li>
+      <li class="carte">
+        <h3>HERE</h3>
+        <span class="etat faux">Numéro faux</span>
+        <p class="usage">GPS d'origine de plusieurs marques</p>
+        <p class="detail">Le téléphone affiché a deux chiffres inversés : le client qui appelle depuis sa voiture tombe chez un particulier. Le bon numéro est <span class="code">021 731 38 70</span>.</p>
+      </li>
+      <li class="carte">
+        <h3>TomTom</h3>
+        <span class="etat faux">Mauvaise catégorie</span>
+        <p class="usage">GPS de Peugeot et du groupe Stellantis, Renault, Toyota, groupe Volkswagen…</p>
+        <p class="detail">Nom, adresse et téléphone justes, mais le garage est rangé dans « Réparation d'appareils d'électroménagers ». Quelqu'un qui cherche « garage » ne nous voit pas.</p>
+      </li>
+      <li class="carte">
+        <h3>Waze</h3>
+        <span class="etat neutre">Suit Google</span>
+        <p class="usage">Application Waze</p>
+        <p class="detail">Waze reprend la fiche Google : ce qui est corrigé chez Google y arrive.</p>
+      </li>
+    </ul>
+
+    <p class="fait"><strong>Déjà corrigé aujourd'hui :</strong> le site carsandcars.ch plaçait le garage à 873 m de son vrai emplacement dans les informations lues par Google. C'est rectifié, avec le logo et l'adresse e-mail info@.</p>
+  </section>
+
+  <section aria-labelledby="t-toi">
+    <h2 id="t-toi">Ce que tu fais, dans l'ordre</h2>
+    <p class="sous">Ce sont tes comptes : ces trois gestes, personne ne peut les faire à ta place. Tu restes propriétaire de tout.</p>
+
+    <ol class="actions">
+      <li class="action">
+        <h3>M'ajouter sur ta fiche Google</h3>
+        <p class="duree">2 minutes · sur ton téléphone ou ton ordinateur</p>
+        <ul class="chemin">
+          <li>Ouvre <a href="https://business.google.com">business.google.com</a> avec ton compte Google habituel</li>
+          <li>Fiche « Cars and Cars » › Paramètres de la fiche › Utilisateurs et accès</li>
+          <li>Ajouter › adresse <span class="cle">sdicrosta@gmail.com</span></li>
+          <li>Rôle : <strong>Administrateur</strong> › Inviter</li>
+        </ul>
+        <p class="note">Je pourrai corriger les horaires, les photos et la deuxième fiche. Je ne pourrai ni supprimer la fiche ni te retirer.</p>
+      </li>
+
+      <li class="action">
+        <h3>M'ajouter sur la page Facebook</h3>
+        <p class="duree">3 minutes · sur Facebook, connecté avec ton compte</p>
+        <ul class="chemin">
+          <li>Ouvre ta page <a href="https://www.facebook.com/carsandcars.ch">Cars and Cars</a> › Paramètres › Accès à la Page</li>
+          <li>Ajouter une nouvelle personne › cherche <span class="cle">Di Caprio Leo</span> (dans cet ordre)</li>
+          <li>Coche <strong>Contrôle total</strong> › Facebook te demande ton mot de passe : tu le tapes toi-même</li>
+        </ul>
+        <p class="note">C'est ce qui permet aussi de relier Instagram à la page et de publier sur les deux en même temps.</p>
+      </li>
+
+      <li class="action">
+        <h3>Reprendre Apple Plans, ensemble au garage</h3>
+        <p class="duree">30 à 45 minutes · avec ton iPhone et le téléphone fixe à portée</p>
+        <ul class="chemin">
+          <li>On crée ton espace gratuit sur Apple Business avec ton identifiant Apple</li>
+          <li>On revendique la fiche Cars and Cars : Apple vérifie que c'est bien ton garage</li>
+          <li>On retire « Auto Occasions Mario Botta » et on remet carsandcars.ch</li>
+        </ul>
+      </li>
+    </ol>
+  </section>
+
+  <section aria-labelledby="t-moi">
+    <div class="deux">
+      <div>
+        <h2 id="t-moi">Ce que je fais</h2>
+        <p class="sous">Sans rien te demander.</p>
+        <ul class="liste">
+          <li><strong>HERE</strong> : corriger le numéro de téléphone.</li>
+          <li><strong>TomTom</strong> : reclasser le garage en garage automobile.</li>
+          <li><strong>OpenStreetMap</strong> : compléter nom, adresse, téléphone et site.</li>
+          <li><strong>Google</strong>, dès ton invitation : horaires, photos, deuxième fiche.</li>
+          <li><strong>Site</strong> : position corrigée <span class="code">46.5823, 6.6002</span> — fait.</li>
+        </ul>
+        <p class="note">HERE et TomTom valident chaque correction : comptez quelques semaines avant que les voitures la reçoivent.</p>
+      </div>
+      <div>
+        <h2 id="t-dire">À me dire</h2>
+        <p class="sous">Quatre réponses courtes suffisent.</p>
+        <ul class="liste question">
+          <li><strong>Les horaires exacts.</strong> Google et Apple disent 8h30, ton site dit 8h00. Et le samedi ?</li>
+          <li><strong>Lundi 21 septembre</strong> (Jeûne fédéral) : fermé ?</li>
+          <li><strong>Le « bureau de vente »</strong> : un vrai bureau séparé, ou un doublon à supprimer ?</li>
+          <li><strong>Apple Pay et le sans-contact</strong> : acceptés ? Apple l'affiche déjà.</li>
+        </ul>
+      </div>
+    </div>
+  </section>
+
+  <footer>
+    Relevé fait le 16.09.2026 directement sur Google Maps, Apple Plans, HERE, TomTom et le site carsandcars.ch. — Stefano, Solucore
+  </footer>
+</div>
+</body>
+</html>
