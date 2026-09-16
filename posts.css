@@ -1,76 +1,104 @@
 
 *{box-sizing:border-box;margin:0;padding:0}
-html{-webkit-text-size-adjust:100%}
-body{background:#000000;color:#D3D3CB;font-family:Inter,-apple-system,"Helvetica Neue",Arial,sans-serif;
-      line-height:1.45;font-size:16px;padding-bottom:96px}
-a{color:#C4A265;text-decoration:none}
-.bandeau{position:sticky;top:0;z-index:5;background:#0b0b0b;border-bottom:1px solid #1e1e1e;
-         padding:12px 14px 10px}
-.bandeau h1{font-size:15px;letter-spacing:.4px;text-transform:uppercase;color:#D3D3CB;font-weight:600}
-.bandeau .compte{margin-top:4px;font-size:13px;color:#8f8f88}
-.bandeau .compte b{color:#C4A265}
-.onglets{display:flex;gap:6px;overflow-x:auto;padding:10px 14px 0;scrollbar-width:none}
-.onglets::-webkit-scrollbar{display:none}
-.onglets a{flex:0 0 auto;padding:12px 16px;border:1px solid #2a2a2a;border-radius:22px;
-           font-size:14px;color:#9a9a93;white-space:nowrap}
-.onglets a.on{background:#C4A265;border-color:#C4A265;color:#000;font-weight:600}
-.liste{padding:14px}
-.post{background:#111;border:1px solid #1f1f1f;border-radius:14px;margin-bottom:18px;overflow:hidden}
-.tete{padding:14px 14px 10px}
-.tete .ligne1{display:flex;align-items:center;gap:8px;flex-wrap:wrap}
-.pastille{font-size:11px;letter-spacing:.5px;text-transform:uppercase;padding:3px 9px;
-          border-radius:20px;border:1px solid currentColor;font-weight:600}
-.regime{font-size:11px;letter-spacing:.5px;text-transform:uppercase;color:#7d7d76}
-.tete h2{font-size:17px;margin-top:8px;color:#fff;font-weight:600}
-.tete .quand{margin-top:3px;font-size:13px;color:#8f8f88}
-.tete .quand b{color:#D3D3CB}
-.alerte{margin:10px 14px 0;padding:10px 12px;border-left:3px solid #C4544A;background:#1a1010;
-        border-radius:0 8px 8px 0;font-size:13.5px;color:#e7d9d7}
-.alerte b{color:#fff}
-.bande{display:flex;gap:8px;overflow-x:auto;scroll-snap-type:x mandatory;
-       -webkit-overflow-scrolling:touch;padding:12px 14px;scrollbar-width:none}
-.bande::-webkit-scrollbar{display:none}
-.dia{flex:0 0 62%;scroll-snap-align:center;max-width:260px}
-.dia img{width:100%;display:block;border-radius:10px;background:#000}
-.dia .sous{display:flex;justify-content:space-between;align-items:center;margin-top:6px;
-           font-size:12px;color:#7d7d76}
-.dia .sous a{padding:14px 14px;background:#181818;border:1px solid #2f2f2f;border-radius:8px;color:#9a9a93;
-              font-size:13px;line-height:1.1}
-.legende{padding:2px 14px 12px}
-.etiq{font-size:11px;text-transform:uppercase;letter-spacing:.5px;color:#7d7d76;margin-bottom:6px}
-.legende textarea{width:100%;min-height:150px;background:#0b0b0b;color:#D3D3CB;border:1px solid #2a2a2a;
-                  border-radius:10px;padding:12px;font-size:14.5px;font-family:inherit;line-height:1.5}
-.legende .mini{margin-top:8px;font-size:13px;color:#7d7d76}
-.actions{display:flex;flex-direction:column;gap:10px;padding:0 14px 16px}
-.actions button{width:100%;min-height:58px;border-radius:12px;border:0;font-size:17px;font-weight:600;
-                font-family:inherit;cursor:pointer}
-.b-oui{background:#C4A265;color:#000}
-.b-plus-tard{background:#1c1c1c;color:#D3D3CB;border:1px solid #333 !important}
-.b-non{background:#1c1c1c;color:#C4544A;border:1px solid #40201e !important}
-.b-texte{background:transparent;color:#8f8f88;min-height:44px !important;font-size:14px !important;
-         text-decoration:underline}
-.publie{padding:0 14px 16px;font-size:14px;color:#8f8f88}
-.pied{padding:6px 14px 30px;text-align:center}
-.pied form button{width:100%;min-height:52px;border-radius:12px;background:#141414;color:#9a9a93;
-                  border:1px solid #2a2a2a;font-size:15px;font-family:inherit}
-.pied p{margin-top:14px;font-size:12px;color:#5f5f5a;line-height:1.6}
-.vide{padding:40px 20px;text-align:center;color:#7d7d76;font-size:15px}
-@media (min-width:760px){
-  .liste{max-width:720px;margin:0 auto}
-  .dia{flex:0 0 200px}
-  .actions{flex-direction:row}
-}
+html{-webkit-text-size-adjust:100%;color-scheme:dark}
+body{background:#000000;color:#D3D3CB;font-family:-apple-system,system-ui,"Helvetica Neue",Arial,sans-serif;
+      line-height:1.45;font-size:16px}
+a{color:#C4A265}
+.page{max-width:760px;margin:0 auto;padding:0 16px 48px}
 
-.e-propose{color:#C4A265}
-.e-programme{color:#5B8CC4}
-.e-publie{color:#5FA65F}
-.e-refuse{color:#8A8A8A}
-.e-reporte{color:#B07A2B}
-.e-gele{color:#8A8A8A}
-.e-retire{color:#8A8A8A}
-.e-echec{color:#C4544A}
-.cta{position:sticky;top:0;z-index:99;display:block;
-     background:#C4A265;color:#000;text-decoration:none;text-align:center;
-     font:800 17px/1.25 -apple-system,system-ui,sans-serif;letter-spacing:.01em;
-     padding:18px 16px;box-shadow:0 6px 22px rgba(0,0,0,.55);}
-.cta:active{background:#d8b878;}
+/* En-tête */
+.entete-page{padding:22px 0 8px}
+.sur{font-size:11px;letter-spacing:.16em;text-transform:uppercase;color:#C4A265;font-weight:700}
+.entete-page h1{margin-top:6px;font-size:24px;line-height:1.2;color:#fff;font-weight:800}
+.chapo{margin-top:10px;font-size:15px;color:#b9b9b1}
+.nav{position:sticky;top:0;z-index:10;display:flex;gap:8px;padding:12px 0;background:#000000;
+      border-bottom:1px solid #1d1d1d}
+.nav a{flex:1;text-align:center;padding:13px 10px;border-radius:12px;border:1px solid #2c2c2c;
+       color:#a9a9a2;text-decoration:none;font-weight:600;font-size:15px}
+.nav a.on{background:#C4A265;border-color:#C4A265;color:#000}
+
+/* Chiffres */
+.chiffres{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px;margin:16px 0 6px}
+.chiffre{background:#111;border:1px solid #1f1f1f;border-radius:14px;padding:12px}
+.chiffre b{display:block;font-size:22px;line-height:1.1;color:#fff}
+.chiffre span{font-size:12.5px;color:#8f8f88}
+.prochaine{margin:10px 0 4px;padding:12px 14px;border-left:3px solid #C4A265;background:rgba(196,162,101,.09);
+           border-radius:0 12px 12px 0;font-size:14.5px}
+.prochaine b{color:#fff}
+
+/* Cartes voiture */
+.voiture{background:#0e0e0e;border:1px solid #1f1f1f;border-radius:16px;margin:18px 0;overflow:hidden}
+.voiture .tete{padding:14px 14px 8px}
+.pastille{display:inline-block;font-size:11px;letter-spacing:.06em;text-transform:uppercase;font-weight:700;
+          padding:4px 10px;border-radius:99px;border:1px solid currentColor}
+.p-publie{color:#6fbf6f}
+.p-programme{color:#7fa8dc}
+.p-baisse{color:#C4A265}
+.p-bloque{color:#e0735f}
+.p-retire{color:#8a8a8a}
+.voiture h2{margin-top:8px;font-size:18px;line-height:1.25;color:#fff}
+.prix{margin-top:4px;font-size:20px;font-weight:800;color:#C4A265}
+.prix s{font-size:15px;font-weight:600;color:#8f8f88;margin-right:6px}
+.dates{list-style:none;margin-top:10px;display:grid;gap:6px}
+.dates li{font-size:14.5px;color:#D3D3CB;padding-left:14px;position:relative}
+.dates li::before{content:"";position:absolute;left:0;top:.6em;width:6px;height:6px;border-radius:50%;background:#C4A265}
+.dates li.fait::before{background:#6fbf6f}
+.dates li.stop::before{background:#e0735f}
+.dates b{color:#fff}
+.alerte{margin:10px 14px 0;padding:10px 12px;border-left:3px solid #e0735f;background:#1a1010;
+        border-radius:0 8px 8px 0;font-size:14px;color:#ecdcd9}
+.bande{display:flex;gap:8px;overflow-x:auto;scroll-snap-type:x mandatory;-webkit-overflow-scrolling:touch;
+       padding:12px 14px;scrollbar-width:none}
+.bande::-webkit-scrollbar{display:none}
+.dia{flex:0 0 64%;max-width:250px;scroll-snap-align:start}
+.dia img{width:100%;height:auto;display:block;border-radius:10px;background:#000;aspect-ratio:4/5}
+.dia span{display:block;margin-top:5px;font-size:12px;color:#7d7d76}
+.glisser{padding:0 14px;font-size:12.5px;color:#7d7d76}
+.reel{padding:14px}
+.reel h3,.texte summary,.hors h3{font-size:13px;letter-spacing:.08em;text-transform:uppercase;color:#9a9a93;font-weight:700}
+.reel video{display:block;margin-top:8px;width:100%;max-width:240px;aspect-ratio:9/16;height:auto;
+            border-radius:12px;background:#000}
+.reel p{margin-top:6px;font-size:12.5px;color:#8f8f88}
+.texte{margin:0 14px 12px;border-top:1px solid #1d1d1d;padding-top:10px}
+.texte summary{cursor:pointer;padding:10px 0;min-height:44px;list-style-position:inside}
+.legende{white-space:pre-wrap;overflow-wrap:anywhere;font-size:14.5px;line-height:1.5;background:#080808;
+         border:1px solid #222;border-radius:10px;padding:12px;color:#D3D3CB}
+.contact{display:block;margin:4px 14px 16px;font-size:14px;color:#9a9a93}
+
+/* Liens WhatsApp : de vrais liens, assez grands pour un doigt */
+.wa{display:block;text-align:center;text-decoration:none;font-weight:700;font-size:16px;
+     min-height:52px;padding:15px 14px;border-radius:12px;background:#1f8a4c;color:#fff}
+.wa-petit{display:inline-block;padding:12px 0;min-height:44px;color:#8fd3a8;text-decoration:underline}
+
+/* Hors vente */
+.hors{margin:28px 0 8px;padding:16px;background:#0e0e0e;border:1px solid #2a2418;border-radius:16px}
+.hors h2{font-size:18px;color:#fff}
+.hors p{margin:8px 0 14px;font-size:14.5px;color:#b9b9b1}
+.sujet{border-top:1px solid #1d1d1d;padding:12px 0}
+.sujet h3{color:#D3D3CB;letter-spacing:.04em}
+.sujet p{margin:4px 0 8px;font-size:14px}
+
+/* Calendrier */
+.sem{margin:24px 0 6px;font-size:12px;letter-spacing:.16em;text-transform:uppercase;color:#C4A265;font-weight:700}
+.ligne{display:flex;gap:12px;align-items:flex-start;padding:12px 0;border-top:1px solid #1b1b1b}
+.ligne .quand{flex:0 0 96px;font-size:13.5px;line-height:1.35;color:#D3D3CB;font-weight:700}
+.ligne .quand small{display:block;font-weight:400;color:#8f8f88}
+.ligne .quoi{flex:1;min-width:0}
+.ligne .quoi b{display:block;font-size:15px;line-height:1.3;color:#fff}
+.ligne .quoi span{font-size:13px;color:#8f8f88}
+.type{flex:0 0 auto;font-size:10.5px;letter-spacing:.08em;font-weight:700;padding:5px 8px;border-radius:99px;
+      white-space:nowrap;border:1px solid currentColor}
+.t-carrousel{color:#7fa8dc}
+.t-reel{color:#c89be0}
+.t-baisse{color:#C4A265}
+.t-publie{color:#6fbf6f}
+.t-bloque{color:#e0735f}
+.ligne.passe{opacity:.6}
+
+.pied{margin-top:30px;font-size:12.5px;color:#6f6f69;text-align:center}
+.maj{margin-top:12px;font-size:12.5px;color:#8f8f88}
+.vide{padding:30px 0;text-align:center;color:#8f8f88}
+@media (min-width:760px){
+  .chiffres{grid-template-columns:repeat(4,minmax(0,1fr))}
+  .dia{flex:0 0 210px}
+}
