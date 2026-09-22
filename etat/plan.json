@@ -1,6 +1,6 @@
 {
   "schema": "cac.plan_publication/2",
-  "mis_a_jour_le": "2026-09-21T09:00:56+02:00",
+  "mis_a_jour_le": "2026-09-22T12:00:59+02:00",
   "entrees": [
     {
       "id": "carrousel-20622081",
@@ -117,14 +117,19 @@
       "id": "reel-20804981",
       "type": "reel",
       "titre": "Alfa Romeo Stelvio 2.9 V6 Quadrifoglio Q4 Automatic",
-      "statut": "prevu",
+      "statut": "publie",
       "quand": "2026-09-22T12:00:00+02:00",
+      "publie_le": "2026-09-22T12:00:48+02:00",
       "prix_chf": 38900,
-      "pourquoi": "Reel : il part le lendemain de son carrousel, à 12:00.",
+      "pourquoi": "Publié 22.09 à 12:00 — date figée, le journal fait foi.",
       "vignette": "https://sdicrosta-gifhub.github.io/cac-apercu/affiches/reel_20804981.jpg",
       "diapos": [],
       "video": "https://sdicrosta-gifhub.github.io/cac-apercu/img/REEL_20804981__reel_20804981.mp4",
-      "legende": "🚗 Alfa Romeo Stelvio 2.9 V6 Quadrifoglio Q4 Automatic — CHF 38'900\n2018 · 83'500 km · Essence · Automatique\n\nVoiture à l'état de neuf - Services gratuits jusqu'à 100'000 km - Grand service effectué - 2 jeux de roues - roues été 22' Homologuées - Garantie 12 mois\n\n👉 Essai sur rendez-vous · 021 731 38 70\nChemin de Mon-Repos 1, 1033 Cheseaux-sur-Lausanne\n\n#carsandcars #occasion #garage #cheseaux #lausanne #alfaromeo"
+      "legende": "🚗 Alfa Romeo Stelvio 2.9 V6 Quadrifoglio Q4 Automatic — CHF 38'900\n2018 · 83'500 km · Essence · Automatique\n\nVoiture à l'état de neuf - Services gratuits jusqu'à 100'000 km - Grand service effectué - 2 jeux de roues - roues été 22' Homologuées - Garantie 12 mois\n\n👉 Essai sur rendez-vous · 021 731 38 70\nChemin de Mon-Repos 1, 1033 Cheseaux-sur-Lausanne\n\n#carsandcars #occasion #garage #cheseaux #lausanne #alfaromeo",
+      "media": {
+        "facebook": "29189754853966020",
+        "instagram": "18110256413129988"
+      }
     },
     {
       "id": "carrousel-20795503",
