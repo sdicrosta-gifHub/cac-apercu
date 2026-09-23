@@ -1,6 +1,6 @@
 {
   "schema": "cac.plan_publication/2",
-  "mis_a_jour_le": "2026-09-22T19:27:33+02:00",
+  "mis_a_jour_le": "2026-09-23T18:01:19+02:00",
   "entrees": [
     {
       "id": "carrousel-20622081",
@@ -539,10 +539,11 @@
       "id": "hors-vente-sortie-rolle-2026",
       "type": "hors_vente",
       "titre": "Meeting VW du Château de Rolle",
-      "statut": "valide",
+      "statut": "publie",
       "quand": "2026-09-23T18:00:00+02:00",
+      "publie_le": "2026-09-23T18:00:55+02:00",
       "mercredi": "2026-09-23",
-      "pourquoi": "Mercredi 23.09 réservé au sujet de David (validé avant l'échéance du mardi 18:00).",
+      "pourquoi": "Publié 23.09 à 18:00 — date figée, le journal fait foi.",
       "vignette": "https://sdicrosta-gifhub.github.io/cac-apercu/img/HV_sortie-rolle-2026__01_img_9788.jpg",
       "diapos": [
         "https://sdicrosta-gifhub.github.io/cac-apercu/img/HV_sortie-rolle-2026__01_img_9788.jpg",
@@ -556,7 +557,11 @@
         "https://sdicrosta-gifhub.github.io/cac-apercu/img/HV_sortie-rolle-2026__09_img_9797.jpg",
         "https://sdicrosta-gifhub.github.io/cac-apercu/img/HV_sortie-rolle-2026__10_img_9820.jpg"
       ],
-      "legende": "Samedi au Château de Rolle, pour le Meeting VW.\n\nDouze éditions que les Coccinelles et leurs cousines se donnent rendez-vous au bord du lac — refroidies par air, d'avant 1979, rien d'autre. On y était, avec notre 1958.\n\nIl y a des voitures qu'on répare. Et il y en a qu'on sort. 🖤\n\n#carsandcars #cheseauxsurlausanne #vw #coccinelle #aircooled #meetingvwrolle #voitureancienne #vaud #garageindependant"
+      "legende": "Samedi au Château de Rolle, pour le Meeting VW.\n\nDouze éditions que les Coccinelles et leurs cousines se donnent rendez-vous au bord du lac — refroidies par air, d'avant 1979, rien d'autre. On y était, avec notre 1958.\n\nIl y a des voitures qu'on répare. Et il y en a qu'on sort. 🖤\n\n#carsandcars #cheseauxsurlausanne #vw #coccinelle #aircooled #meetingvwrolle #voitureancienne #vaud #garageindependant",
+      "media": {
+        "facebook": "106433960005560_1686896750109226",
+        "instagram": "18124683247892255"
+      }
     },
     {
       "id": "reel-hors-vente-sortie-rolle-2026",
