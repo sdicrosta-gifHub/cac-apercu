@@ -1,6 +1,6 @@
 {
   "schema": "cac.plan_publication/2",
-  "mis_a_jour_le": "2026-09-23T18:01:19+02:00",
+  "mis_a_jour_le": "2026-09-23T19:00:49+02:00",
   "entrees": [
     {
       "id": "carrousel-20622081",
@@ -567,12 +567,17 @@
       "id": "reel-hors-vente-sortie-rolle-2026",
       "type": "reel",
       "titre": "Meeting VW du Château de Rolle",
-      "statut": "prevu",
+      "statut": "publie",
       "quand": "2026-09-23T19:00:00+02:00",
-      "pourquoi": "Reel du sujet de David : il part en même temps que son post (le Reel d'abord).",
+      "publie_le": "2026-09-23T19:00:39+02:00",
+      "pourquoi": "Publié 23.09 à 19:00 — date figée, le journal fait foi.",
       "diapos": [],
       "video": "https://sdicrosta-gifhub.github.io/cac-apercu/img/REEL_HV_sortie-rolle-2026__reel_HV_sortie-rolle-2026.mp4",
-      "legende": "Samedi au Château de Rolle, pour le Meeting VW.\n\nDouze éditions que les Coccinelles et leurs cousines se donnent rendez-vous au bord du lac — refroidies par air, d'avant 1979, rien d'autre. On y était, avec notre 1958.\n\nIl y a des voitures qu'on répare. Et il y en a qu'on sort. 🖤\n\n#carsandcars #cheseauxsurlausanne #vw #coccinelle #aircooled #meetingvwrolle #voitureancienne #vaud #garageindependant\n\nMusique (extrait) : \"Malt Shop Bop\" Kevin MacLeod (incompetech.com)\nLicensed under Creative Commons: By Attribution 4.0 License\nhttp://creativecommons.org/licenses/by/4.0/"
+      "legende": "Samedi au Château de Rolle, pour le Meeting VW.\n\nDouze éditions que les Coccinelles et leurs cousines se donnent rendez-vous au bord du lac — refroidies par air, d'avant 1979, rien d'autre. On y était, avec notre 1958.\n\nIl y a des voitures qu'on répare. Et il y en a qu'on sort. 🖤\n\n#carsandcars #cheseauxsurlausanne #vw #coccinelle #aircooled #meetingvwrolle #voitureancienne #vaud #garageindependant\n\nMusique (extrait) : \"Malt Shop Bop\" Kevin MacLeod (incompetech.com)\nLicensed under Creative Commons: By Attribution 4.0 License\nhttp://creativecommons.org/licenses/by/4.0/",
+      "media": {
+        "facebook": "1717233609368315",
+        "instagram": "18096067712643392"
+      }
     }
   ]
 }
