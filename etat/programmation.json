@@ -73,6 +73,14 @@
       "entree": "hors-vente-app-brouillon-2",
       "quand": null,
       "traite_le": "2026-09-24T10:30:00+02:00"
+    },
+    {
+      "id": "07ca7dceefda4574b46f6f33be951282",
+      "action": "publier_maintenant",
+      "verdict": "PUBLIEE_PARTIELLEMENT",
+      "entree": "hors-vente-app-brouillon-4",
+      "quand": "2026-09-24T21:59:45+02:00",
+      "traite_le": "2026-09-24T21:57:53+02:00"
     }
   ],
   "reels": [
@@ -91,11 +99,19 @@
       "genere_le": null,
       "duree_s": null,
       "musique": null
+    },
+    {
+      "sujet": "app-brouillon-4",
+      "pret": false,
+      "motif": "absent",
+      "genere_le": null,
+      "duree_s": null,
+      "musique": null
     }
   ],
   "pont": {
-    "dernier_passage": "2026-09-24T21:55:11+02:00",
-    "code_sortie": 0,
+    "dernier_passage": "2026-09-24T21:59:46+02:00",
+    "code_sortie": 2,
     "prochain_passage": "2026-09-24T22:00:00+02:00",
     "publier_maintenant": true
   }

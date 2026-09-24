@@ -1,6 +1,6 @@
 {
   "schema": "cac.plan_publication/2",
-  "mis_a_jour_le": "2026-09-24T19:27:44+02:00",
+  "mis_a_jour_le": "2026-09-24T21:59:45+02:00",
   "entrees": [
     {
       "id": "carrousel-20622081",
@@ -692,6 +692,28 @@
       "diapos": [],
       "video": "https://sdicrosta-gifhub.github.io/cac-apercu/img/REEL_20851681__reel_20851681.mp4",
       "legende": "🚗 Alfa Romeo 147 3.2 GTA — CHF 21'900\n2003 · 127'500 km · Essence · Manuelle\n\nVoiture à l'état de neuf - Couleur Bianco Nuvola, (très Rare) - Grand service effectué - Expertisée du jour - 2 jeux de roues - Radio Multimédia Pioneer\n\n👉 Essai sur rendez-vous · 021 731 38 70\nChemin de Mon-Repos 1, 1033 Cheseaux-sur-Lausanne\n\n#carsandcars #occasion #garage #cheseaux #lausanne #alfaromeo"
+    },
+    {
+      "id": "hors-vente-app-brouillon-4",
+      "type": "hors_vente",
+      "titre": "Dimanche à Blonay, pour la 11ᵉ édition de Léman Rétro.",
+      "statut": "partiel",
+      "quand": "2026-09-24T21:59:45+02:00",
+      "publie_le": "2026-09-24T21:59:35+02:00",
+      "pourquoi": "Publié 24.09 à 21:59 — date figée, le journal fait foi.",
+      "vignette": "https://sdicrosta-gifhub.github.io/cac-apercu/img/HV_app-brouillon-4__01_01.jpg",
+      "diapos": [
+        "https://sdicrosta-gifhub.github.io/cac-apercu/img/HV_app-brouillon-4__01_01.jpg",
+        "https://sdicrosta-gifhub.github.io/cac-apercu/img/HV_app-brouillon-4__02_02.jpg",
+        "https://sdicrosta-gifhub.github.io/cac-apercu/img/HV_app-brouillon-4__03_03.jpg",
+        "https://sdicrosta-gifhub.github.io/cac-apercu/img/HV_app-brouillon-4__04_04.jpg",
+        "https://sdicrosta-gifhub.github.io/cac-apercu/img/HV_app-brouillon-4__05_05.jpg",
+        "https://sdicrosta-gifhub.github.io/cac-apercu/img/HV_app-brouillon-4__06_06.jpg"
+      ],
+      "legende": "Dimanche à Blonay, pour la 11ᵉ édition de Léman Rétro.\n\nCette fois sans rien exposer : juste marcher entre les voitures, écouter les moteurs et discuter avec ceux qui les entretiennent.\n\nCette année l'affiche fêtait les 60 ans de la Camaro, les 110 ans de BMW et les 65 ans de la 4L. Sur le pré : une Dauphine rouge, une 4CV, une Austin de 1933, une Coccinelle capot ouvert, et les Jeeps de la Libération alignées au garde-à-vous. Tout ce qui roule et qui a une histoire.\n\nC'est aussi comme ça qu'on apprend le métier. 🔧\n\n#carsandcars #lemanretro #blonay #stlegier #rivieravaudoise #voitureancienne #oldtimer #camaro #vaud #passionauto",
+      "media": {
+        "instagram": "18105242831631649"
+      }
     }
   ]
 }
