@@ -4,25 +4,25 @@
       "mercredi": "2026-09-30",
       "echeance": "2026-09-29T18:00:00+02:00",
       "etat": "relais_provisoire",
-      "entree": "carrousel-20183404"
+      "entree": "carrousel-20734420"
     },
     {
       "mercredi": "2026-10-07",
       "echeance": "2026-10-06T18:00:00+02:00",
       "etat": "relais_provisoire",
-      "entree": "carrousel-20096946"
+      "entree": "carrousel-20222756"
     },
     {
       "mercredi": "2026-10-14",
       "echeance": "2026-10-13T18:00:00+02:00",
       "etat": "relais_provisoire",
-      "entree": "carrousel-12265553"
+      "entree": "carrousel-20420476"
     },
     {
       "mercredi": "2026-10-21",
       "echeance": "2026-10-20T18:00:00+02:00",
       "etat": "relais_provisoire",
-      "entree": "baisse-20258718-8500"
+      "entree": "carrousel-20851615"
     },
     {
       "mercredi": "2026-10-28",
@@ -75,9 +75,28 @@
       "traite_le": "2026-09-24T10:30:00+02:00"
     }
   ],
+  "reels": [
+    {
+      "sujet": "app-brouillon-1",
+      "pret": false,
+      "motif": "absent",
+      "genere_le": null,
+      "duree_s": null,
+      "musique": null
+    },
+    {
+      "sujet": "app-brouillon-2",
+      "pret": false,
+      "motif": "absent",
+      "genere_le": null,
+      "duree_s": null,
+      "musique": null
+    }
+  ],
   "pont": {
-    "dernier_passage": "2026-09-24T13:45:05+02:00",
-    "code_sortie": 0,
-    "prochain_passage": "2026-09-24T14:15:00+02:00"
+    "dernier_passage": "2026-09-24T19:25:01+02:00",
+    "code_sortie": 3,
+    "prochain_passage": "2026-09-24T19:30:00+02:00",
+    "publier_maintenant": false
   }
 }

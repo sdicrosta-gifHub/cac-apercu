@@ -4,16 +4,16 @@
     "code_sortie": 0
   },
   "prix": {
-    "horodatage": "2026-09-24T10:07:56+02:00",
-    "code_sortie": 0
+    "horodatage": "2026-09-24T19:22:12+02:00",
+    "code_sortie": 2
   },
   "jeton": {
-    "horodatage": "2026-09-24T07:05:00.365940+00:00",
+    "horodatage": "2026-09-24T16:05:00.493934+00:00",
     "code_sortie": 0
   },
   "attention": {
     "david": true,
-    "stefano": false,
+    "stefano": true,
     "mercredi": "2026-09-30",
     "echeance": "2026-09-29T18:00:00+02:00"
   }
