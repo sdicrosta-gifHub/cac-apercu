@@ -16,3 +16,4 @@
 {"quand": "2026-09-23T19:00:49+02:00", "entree": "reel-hors-vente-sortie-rolle-2026", "type": "reel", "reseau": "facebook", "ok": true, "simule": false}
 {"quand": "2026-09-24T21:59:35+02:00", "entree": "hors-vente-app-brouillon-4", "type": "hors_vente", "reseau": "instagram", "ok": true, "simule": false}
 {"quand": "2026-09-24T21:59:45+02:00", "entree": "hors-vente-app-brouillon-4", "type": "hors_vente", "reseau": "facebook", "ok": false, "simule": false}
+{"quand": "2026-09-24T22:02:21+02:00", "entree": "hors-vente-app-brouillon-4", "type": "hors_vente", "reseau": "facebook", "ok": true, "simule": false}
