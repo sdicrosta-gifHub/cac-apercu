@@ -12,9 +12,9 @@
     "code_sortie": 0
   },
   "attention": {
-    "david": false,
+    "david": true,
     "stefano": false,
-    "mercredi": null,
-    "echeance": null
+    "mercredi": "2026-09-30",
+    "echeance": "2026-09-29T18:00:00+02:00"
   }
 }
