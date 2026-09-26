@@ -1,6 +1,6 @@
 {
   "schema": "cac.plan_publication/2",
-  "mis_a_jour_le": "2026-09-25T18:01:12+02:00",
+  "mis_a_jour_le": "2026-09-26T07:30:02+02:00",
   "entrees": [
     {
       "id": "carrousel-20622081",
@@ -135,12 +135,12 @@
       "id": "carrousel-20795503",
       "type": "carrousel",
       "titre": "Renault Espace 1.6 dCi Intens EDC",
-      "statut": "suspendu",
+      "statut": "retire",
       "prix_chf": 13900,
       "variante": "normale",
       "rang": 3,
       "categorie": "car",
-      "pourquoi": "Annonce momentanément absente du relevé AutoScout24 (suspendue, pas retirée).",
+      "pourquoi": "Annonce disparue d'AutoScout24 (retirée du programme).",
       "vignette": "https://sdicrosta-gifhub.github.io/cac-apercu/img/20795503_RENAULT_Espace_1_6_dCi_Intens_EDC__1_hero.jpg",
       "diapos": [
         "https://sdicrosta-gifhub.github.io/cac-apercu/img/20795503_RENAULT_Espace_1_6_dCi_Intens_EDC__1_hero.jpg",
@@ -157,9 +157,9 @@
       "id": "reel-20795503",
       "type": "reel",
       "titre": "Renault Espace 1.6 dCi Intens EDC",
-      "statut": "suspendu",
+      "statut": "retire",
       "prix_chf": 13900,
-      "pourquoi": "Annonce momentanément absente du relevé AutoScout24 (suspendue, pas retirée).",
+      "pourquoi": "Annonce disparue d'AutoScout24 (retirée du programme).",
       "vignette": "https://sdicrosta-gifhub.github.io/cac-apercu/affiches/reel_20795503.jpg",
       "diapos": [],
       "video": "https://sdicrosta-gifhub.github.io/cac-apercu/img/REEL_20795503__reel_20795503.mp4",
