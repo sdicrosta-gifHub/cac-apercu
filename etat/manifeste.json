@@ -1,8 +1,8 @@
 {
   "schema": "cac.miroir_social/1",
-  "horodatage": "2026-09-27T10:56:28+02:00",
-  "passage": "manuel",
-  "code_sortie": null,
+  "horodatage": "2026-09-27T12:00:00+02:00",
+  "passage": "publication",
+  "code_sortie": 0,
   "plan_schema_ok": true,
   "nb_entrees": 37
 }
