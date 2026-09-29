@@ -1,6 +1,6 @@
 {
   "schema": "cac.plan_publication/2",
-  "mis_a_jour_le": "2026-09-28T09:01:14+02:00",
+  "mis_a_jour_le": "2026-09-29T12:02:00+02:00",
   "entrees": [
     {
       "id": "carrousel-20622081",
@@ -243,14 +243,19 @@
       "id": "reel-20183404",
       "type": "reel",
       "titre": "Peugeot 208 1.2 PureTech Active",
-      "statut": "prevu",
+      "statut": "publie",
       "quand": "2026-09-29T12:00:00+02:00",
+      "publie_le": "2026-09-29T12:01:45+02:00",
       "prix_chf": 15900,
-      "pourquoi": "Reel : il part le lendemain de son carrousel, à 12:00.",
+      "pourquoi": "Publié 29.09 à 12:01 — date figée, le journal fait foi.",
       "vignette": "https://sdicrosta-gifhub.github.io/cac-apercu/affiches/reel_20183404.jpg",
       "diapos": [],
       "video": "https://sdicrosta-gifhub.github.io/cac-apercu/img/REEL_20183404__reel_20183404.mp4",
-      "legende": "🚗 Peugeot 208 1.2 PureTech Active — CHF 15'900\n2024 · 12'100 km · Essence · Manuelle\n\nVoiture à l'état de neuf - Expertisée du jour - Garantie du constructeur 36 mois ou 100'000 km\n\n👉 Essai sur rendez-vous · 021 731 38 70\nChemin de Mon-Repos 1, 1033 Cheseaux-sur-Lausanne\n\n#carsandcars #occasion #garage #cheseaux #lausanne #peugeot"
+      "legende": "🚗 Peugeot 208 1.2 PureTech Active — CHF 15'900\n2024 · 12'100 km · Essence · Manuelle\n\nVoiture à l'état de neuf - Expertisée du jour - Garantie du constructeur 36 mois ou 100'000 km\n\n👉 Essai sur rendez-vous · 021 731 38 70\nChemin de Mon-Repos 1, 1033 Cheseaux-sur-Lausanne\n\n#carsandcars #occasion #garage #cheseaux #lausanne #peugeot",
+      "media": {
+        "facebook": "1075759425375915",
+        "instagram": "18120176671941696"
+      }
     },
     {
       "id": "carrousel-20734420",
