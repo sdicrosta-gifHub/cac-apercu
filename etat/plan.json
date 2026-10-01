@@ -1,6 +1,6 @@
 {
   "schema": "cac.plan_publication/2",
-  "mis_a_jour_le": "2026-09-30T18:01:27+02:00",
+  "mis_a_jour_le": "2026-10-01T12:01:38+02:00",
   "entrees": [
     {
       "id": "carrousel-20622081",
@@ -288,14 +288,19 @@
       "id": "reel-20734420",
       "type": "reel",
       "titre": "VW Käfer",
-      "statut": "prevu",
+      "statut": "publie",
       "quand": "2026-10-01T12:00:00+02:00",
+      "publie_le": "2026-10-01T12:01:29+02:00",
       "prix_chf": 24900,
-      "pourquoi": "Reel : il part le lendemain de son carrousel, à 12:00.",
+      "pourquoi": "Publié 01.10 à 12:01 — date figée, le journal fait foi.",
       "vignette": "https://sdicrosta-gifhub.github.io/cac-apercu/affiches/reel_20734420.jpg",
       "diapos": [],
       "video": "https://sdicrosta-gifhub.github.io/cac-apercu/img/REEL_20734420__reel_20734420.mp4",
-      "legende": "🚗 VW Käfer — CHF 24'900\n1958 · 34'000 km · Essence · Manuelle\n\nMagnifique VW Coccinelle de 1958, EXPERTISEE, conservée dans son état d’origine et parfaitement préservée.\n\n👉 Essai sur rendez-vous · 021 731 38 70\nChemin de Mon-Repos 1, 1033 Cheseaux-sur-Lausanne\n\n#carsandcars #occasion #garage #cheseaux #lausanne #vw"
+      "legende": "🚗 VW Käfer — CHF 24'900\n1958 · 34'000 km · Essence · Manuelle\n\nMagnifique VW Coccinelle de 1958, EXPERTISEE, conservée dans son état d’origine et parfaitement préservée.\n\n👉 Essai sur rendez-vous · 021 731 38 70\nChemin de Mon-Repos 1, 1033 Cheseaux-sur-Lausanne\n\n#carsandcars #occasion #garage #cheseaux #lausanne #vw",
+      "media": {
+        "facebook": "1469399668346012",
+        "instagram": "18087446042263175"
+      }
     },
     {
       "id": "carrousel-20253533",
