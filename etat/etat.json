@@ -1,6 +1,6 @@
 {
   "publication": {
-    "horodatage": "2026-10-02T19:00:00+02:00",
+    "horodatage": "2026-10-02T20:00:00+02:00",
     "code_sortie": 0
   },
   "prix": {
@@ -8,8 +8,8 @@
     "code_sortie": 0
   },
   "jeton": {
-    "horodatage": "2026-10-02T16:05:00.459955+00:00",
-    "code_sortie": 0
+    "horodatage": "2026-10-02T17:43:31.633750+00:00",
+    "code_sortie": 2
   },
   "attention": {
     "david": true,
