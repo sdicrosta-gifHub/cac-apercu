@@ -1,6 +1,6 @@
 {
   "schema": "cac.plan_publication/2",
-  "mis_a_jour_le": "2026-10-05T09:01:44+02:00",
+  "mis_a_jour_le": "2026-10-06T12:00:36+02:00",
   "entrees": [
     {
       "id": "carrousel-20622081",
@@ -397,16 +397,20 @@
       "id": "reel-20096946",
       "type": "reel",
       "titre": "Mercedes-Benz GLC 350 e AMG Line 4Matic 7G-Tronic",
-      "statut": "prevu",
+      "statut": "publie",
       "quand": "2026-10-06T12:00:00+02:00",
+      "publie_le": "2026-10-06T12:00:36+02:00",
       "prix_chf": 23900,
-      "pourquoi": "Reel : il part le lendemain de son carrousel, à 12:00.",
+      "pourquoi": "Publié 06.10 à 12:00 — date figée, le journal fait foi.",
       "vignette": "https://sdicrosta-gifhub.github.io/cac-apercu/affiches/reel_20096946.jpg",
       "diapos": [],
       "video": "https://sdicrosta-gifhub.github.io/cac-apercu/img/REEL_20096946__reel_20096946.mp4",
       "video_fb": "https://sdicrosta-gifhub.github.io/cac-apercu/img/REEL_20096946__reel_20096946_sans_musique.mp4",
       "legende_fb": "🚗 Mercedes-Benz GLC 350 e AMG Line 4Matic 7G-Tronic — CHF 23'900\n2017 · 145'000 km · Hybride rechargeable · Automatique\n\nVoiture en super état - Expertisée du jour - Garantie 12 mois - 2 Jeux de roues - Câbles chargeurs inclus\n\n👉 Essai sur rendez-vous · 021 731 38 70\nChemin de Mon-Repos 1, 1033 Cheseaux-sur-Lausanne\n\n#carsandcars #occasion #garage #cheseaux #lausanne #mercedesbenz",
-      "legende": "🚗 Mercedes-Benz GLC 350 e AMG Line 4Matic 7G-Tronic — CHF 23'900\n2017 · 145'000 km · Hybride rechargeable · Automatique\n\nVoiture en super état - Expertisée du jour - Garantie 12 mois - 2 Jeux de roues - Câbles chargeurs inclus\n\n👉 Essai sur rendez-vous · 021 731 38 70\nChemin de Mon-Repos 1, 1033 Cheseaux-sur-Lausanne\n\n#carsandcars #occasion #garage #cheseaux #lausanne #mercedesbenz"
+      "legende": "🚗 Mercedes-Benz GLC 350 e AMG Line 4Matic 7G-Tronic — CHF 23'900\n2017 · 145'000 km · Hybride rechargeable · Automatique\n\nVoiture en super état - Expertisée du jour - Garantie 12 mois - 2 Jeux de roues - Câbles chargeurs inclus\n\n👉 Essai sur rendez-vous · 021 731 38 70\nChemin de Mon-Repos 1, 1033 Cheseaux-sur-Lausanne\n\n#carsandcars #occasion #garage #cheseaux #lausanne #mercedesbenz",
+      "media": {
+        "instagram": "18013466996972431"
+      }
     },
     {
       "id": "carrousel-20222756",
