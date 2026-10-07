@@ -35,3 +35,5 @@
 {"quand": "2026-10-05T09:01:19+02:00", "entree": "carrousel-20096946", "type": "carrousel", "reseau": "instagram", "ok": true, "simule": false}
 {"quand": "2026-10-05T09:01:44+02:00", "entree": "carrousel-20096946", "type": "carrousel", "reseau": "facebook", "ok": true, "simule": false}
 {"quand": "2026-10-06T12:00:36+02:00", "entree": "reel-20096946", "type": "reel", "reseau": "instagram", "ok": true, "simule": false}
+{"quand": "2026-10-07T18:00:44+02:00", "entree": "carrousel-20222756", "type": "carrousel", "reseau": "instagram", "ok": true, "simule": false}
+{"quand": "2026-10-07T18:00:59+02:00", "entree": "carrousel-20222756", "type": "carrousel", "reseau": "facebook", "ok": true, "simule": false}
