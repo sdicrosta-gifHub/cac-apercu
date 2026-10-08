@@ -1,6 +1,6 @@
 {
   "schema": "cac.plan_publication/2",
-  "mis_a_jour_le": "2026-10-07T18:00:59+02:00",
+  "mis_a_jour_le": "2026-10-08T12:00:43+02:00",
   "entrees": [
     {
       "id": "carrousel-20622081",
@@ -443,16 +443,20 @@
       "id": "reel-20222756",
       "type": "reel",
       "titre": "Opel Mokka 1.2 Direct Injection Turbo GS Line Aut.",
-      "statut": "prevu",
+      "statut": "publie",
       "quand": "2026-10-08T12:00:00+02:00",
+      "publie_le": "2026-10-08T12:00:43+02:00",
       "prix_chf": 14500,
-      "pourquoi": "Reel : il part le lendemain de son carrousel, à 12:00.",
+      "pourquoi": "Publié 08.10 à 12:00 — date figée, le journal fait foi.",
       "vignette": "https://sdicrosta-gifhub.github.io/cac-apercu/affiches/reel_20222756.jpg",
       "diapos": [],
       "video": "https://sdicrosta-gifhub.github.io/cac-apercu/img/REEL_20222756__reel_20222756.mp4",
       "video_fb": "https://sdicrosta-gifhub.github.io/cac-apercu/img/REEL_20222756__reel_20222756_sans_musique.mp4",
       "legende_fb": "🚗 Opel Mokka 1.2 Direct Injection Turbo GS Line Aut. — CHF 14'500\n2022 · 79'500 km · Essence · Automatique\n\n👉 Essai sur rendez-vous · 021 731 38 70\nChemin de Mon-Repos 1, 1033 Cheseaux-sur-Lausanne\n\n#carsandcars #occasion #garage #cheseaux #lausanne #opel",
-      "legende": "🚗 Opel Mokka 1.2 Direct Injection Turbo GS Line Aut. — CHF 14'500\n2022 · 79'500 km · Essence · Automatique\n\n👉 Essai sur rendez-vous · 021 731 38 70\nChemin de Mon-Repos 1, 1033 Cheseaux-sur-Lausanne\n\n#carsandcars #occasion #garage #cheseaux #lausanne #opel"
+      "legende": "🚗 Opel Mokka 1.2 Direct Injection Turbo GS Line Aut. — CHF 14'500\n2022 · 79'500 km · Essence · Automatique\n\n👉 Essai sur rendez-vous · 021 731 38 70\nChemin de Mon-Repos 1, 1033 Cheseaux-sur-Lausanne\n\n#carsandcars #occasion #garage #cheseaux #lausanne #opel",
+      "media": {
+        "instagram": "17991197043061567"
+      }
     },
     {
       "id": "carrousel-20548427",
