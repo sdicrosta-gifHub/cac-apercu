@@ -1,6 +1,6 @@
 {
   "schema": "cac.plan_publication/2",
-  "mis_a_jour_le": "2026-10-08T12:00:43+02:00",
+  "mis_a_jour_le": "2026-10-09T18:01:34+02:00",
   "entrees": [
     {
       "id": "carrousel-20622081",
@@ -462,13 +462,14 @@
       "id": "carrousel-20548427",
       "type": "carrousel",
       "titre": "Porsche Boxster S 3.4",
-      "statut": "prevu",
+      "statut": "publie",
       "quand": "2026-10-09T18:00:00+02:00",
+      "publie_le": "2026-10-09T18:01:07+02:00",
       "prix_chf": 23900,
       "variante": "normale",
       "rang": 9,
       "categorie": "car",
-      "pourquoi": "Créneau corporate (lun 09:00 / mer 18:00 / ven 18:00) — 1re de la file, prévu 09.10 à 18:00.",
+      "pourquoi": "Publié 09.10 à 18:01 — date figée, le journal fait foi.",
       "vignette": "https://sdicrosta-gifhub.github.io/cac-apercu/img/20548427_PORSCHE_Boxster_S_3_4__1_hero.jpg",
       "diapos": [
         "https://sdicrosta-gifhub.github.io/cac-apercu/img/20548427_PORSCHE_Boxster_S_3_4__1_hero.jpg",
@@ -479,7 +480,11 @@
         "https://sdicrosta-gifhub.github.io/cac-apercu/img/20548427_PORSCHE_Boxster_S_3_4__6_technique.jpg",
         "https://sdicrosta-gifhub.github.io/cac-apercu/img/20548427_PORSCHE_Boxster_S_3_4__7_cta.jpg"
       ],
-      "legende": "🚗 Porsche Boxster S 3.4 — CHF 23'900\n2006 · 143'000 km · Essence · Manuelle\n\nVoiture en super état - Services suivis - Expertisée du Jour - Radio DAB+ CarPlay/Android Auto Custom Fit\n\n👉 Essai sur rendez-vous · 021 731 38 70\nChemin de Mon-Repos 1, 1033 Cheseaux-sur-Lausanne\n\n#carsandcars #occasion #garage #cheseaux #lausanne #porsche"
+      "legende": "🚗 Porsche Boxster S 3.4 — CHF 23'900\n2006 · 143'000 km · Essence · Manuelle\n\nVoiture en super état - Services suivis - Expertisée du Jour - Radio DAB+ CarPlay/Android Auto Custom Fit\n\n👉 Essai sur rendez-vous · 021 731 38 70\nChemin de Mon-Repos 1, 1033 Cheseaux-sur-Lausanne\n\n#carsandcars #occasion #garage #cheseaux #lausanne #porsche",
+      "media": {
+        "facebook": "106433960005560_1704705798328321",
+        "instagram": "17937454125123370"
+      }
     },
     {
       "id": "reel-20548427",
@@ -506,7 +511,7 @@
       "variante": "normale",
       "rang": 10,
       "categorie": "car",
-      "pourquoi": "Créneau corporate (lun 09:00 / mer 18:00 / ven 18:00) — 2ᵉ de la file, prévu 12.10 à 09:00.",
+      "pourquoi": "Créneau corporate (lun 09:00 / mer 18:00 / ven 18:00) — 1re de la file, prévu 12.10 à 09:00.",
       "vignette": "https://sdicrosta-gifhub.github.io/cac-apercu/img/12265553_FIAT_Barchetta_1_8_ABS__1_hero.jpg",
       "diapos": [
         "https://sdicrosta-gifhub.github.io/cac-apercu/img/12265553_FIAT_Barchetta_1_8_ABS__1_hero.jpg",
@@ -582,7 +587,7 @@
       "variante": "normale",
       "rang": 12,
       "categorie": "car",
-      "pourquoi": "Créneau corporate (lun 09:00 / mer 18:00 / ven 18:00) — 4ᵉ de la file, prévu 16.10 à 18:00.",
+      "pourquoi": "Créneau corporate (lun 09:00 / mer 18:00 / ven 18:00) — 3ᵉ de la file, prévu 16.10 à 18:00.",
       "vignette": "https://sdicrosta-gifhub.github.io/cac-apercu/img/12916329_FIAT_595_1_4_16V_Turbo_Abarth_Comp__1_hero.jpg",
       "diapos": [
         "https://sdicrosta-gifhub.github.io/cac-apercu/img/12916329_FIAT_595_1_4_16V_Turbo_Abarth_Comp__1_hero.jpg",
@@ -753,7 +758,7 @@
       "rang": 15,
       "categorie": "car",
       "detecte_le": "2026-09-24T19:22:12+02:00",
-      "pourquoi": "Créneau corporate (lun 09:00 / mer 18:00 / ven 18:00) — 7ᵉ de la file, prévu 23.10 à 18:00.",
+      "pourquoi": "Créneau corporate (lun 09:00 / mer 18:00 / ven 18:00) — 6ᵉ de la file, prévu 23.10 à 18:00.",
       "vignette": "https://sdicrosta-gifhub.github.io/cac-apercu/img/20851681_ALFA_ROMEO_147_3_2_GTA__1_hero.jpg",
       "diapos": [
         "https://sdicrosta-gifhub.github.io/cac-apercu/img/20851681_ALFA_ROMEO_147_3_2_GTA__1_hero.jpg",
