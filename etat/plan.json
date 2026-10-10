@@ -1,6 +1,6 @@
 {
   "schema": "cac.plan_publication/2",
-  "mis_a_jour_le": "2026-10-09T18:01:34+02:00",
+  "mis_a_jour_le": "2026-10-10T12:01:38+02:00",
   "entrees": [
     {
       "id": "carrousel-20622081",
@@ -490,16 +490,20 @@
       "id": "reel-20548427",
       "type": "reel",
       "titre": "Porsche Boxster S 3.4",
-      "statut": "prevu",
+      "statut": "publie",
       "quand": "2026-10-10T12:00:00+02:00",
+      "publie_le": "2026-10-10T12:01:38+02:00",
       "prix_chf": 23900,
-      "pourquoi": "Reel : il part le lendemain de son carrousel, à 12:00.",
+      "pourquoi": "Publié 10.10 à 12:01 — date figée, le journal fait foi.",
       "vignette": "https://sdicrosta-gifhub.github.io/cac-apercu/affiches/reel_20548427.jpg",
       "diapos": [],
       "video": "https://sdicrosta-gifhub.github.io/cac-apercu/img/REEL_20548427__reel_20548427.mp4",
       "video_fb": "https://sdicrosta-gifhub.github.io/cac-apercu/img/REEL_20548427__reel_20548427_sans_musique.mp4",
       "legende_fb": "🚗 Porsche Boxster S 3.4 — CHF 23'900\n2006 · 143'000 km · Essence · Manuelle\n\nVoiture en super état - Services suivis - Expertisée du Jour - Radio DAB+ CarPlay/Android Auto Custom Fit\n\n👉 Essai sur rendez-vous · 021 731 38 70\nChemin de Mon-Repos 1, 1033 Cheseaux-sur-Lausanne\n\n#carsandcars #occasion #garage #cheseaux #lausanne #porsche",
-      "legende": "🚗 Porsche Boxster S 3.4 — CHF 23'900\n2006 · 143'000 km · Essence · Manuelle\n\nVoiture en super état - Services suivis - Expertisée du Jour - Radio DAB+ CarPlay/Android Auto Custom Fit\n\n👉 Essai sur rendez-vous · 021 731 38 70\nChemin de Mon-Repos 1, 1033 Cheseaux-sur-Lausanne\n\n#carsandcars #occasion #garage #cheseaux #lausanne #porsche"
+      "legende": "🚗 Porsche Boxster S 3.4 — CHF 23'900\n2006 · 143'000 km · Essence · Manuelle\n\nVoiture en super état - Services suivis - Expertisée du Jour - Radio DAB+ CarPlay/Android Auto Custom Fit\n\n👉 Essai sur rendez-vous · 021 731 38 70\nChemin de Mon-Repos 1, 1033 Cheseaux-sur-Lausanne\n\n#carsandcars #occasion #garage #cheseaux #lausanne #porsche",
+      "media": {
+        "instagram": "18628653595003739"
+      }
     },
     {
       "id": "carrousel-12265553",
