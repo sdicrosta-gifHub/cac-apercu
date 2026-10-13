@@ -1,6 +1,6 @@
 {
   "schema": "cac.plan_publication/2",
-  "mis_a_jour_le": "2026-10-12T09:01:07+02:00",
+  "mis_a_jour_le": "2026-10-13T12:00:48+02:00",
   "entrees": [
     {
       "id": "carrousel-20622081",
@@ -537,16 +537,20 @@
       "id": "reel-12265553",
       "type": "reel",
       "titre": "Fiat Barchetta 1.8 ABS",
-      "statut": "prevu",
+      "statut": "publie",
       "quand": "2026-10-13T12:00:00+02:00",
+      "publie_le": "2026-10-13T12:00:48+02:00",
       "prix_chf": 4900,
-      "pourquoi": "Reel : il part le lendemain de son carrousel, à 12:00.",
+      "pourquoi": "Publié 13.10 à 12:00 — date figée, le journal fait foi.",
       "vignette": "https://sdicrosta-gifhub.github.io/cac-apercu/affiches/reel_12265553.jpg",
       "diapos": [],
       "video": "https://sdicrosta-gifhub.github.io/cac-apercu/img/REEL_12265553__reel_12265553.mp4",
       "video_fb": "https://sdicrosta-gifhub.github.io/cac-apercu/img/REEL_12265553__reel_12265553_sans_musique.mp4",
       "legende_fb": "🚗 Fiat Barchetta 1.8 ABS — CHF 4'900\n2003 · 158'000 km · Essence · Manuelle\n\nVoiture en super état - Climatisation - Expertisée du jour - Service du jour - Pare-Chocs légèrement abimé à l'avant\n\n👉 Essai sur rendez-vous · 021 731 38 70\nChemin de Mon-Repos 1, 1033 Cheseaux-sur-Lausanne\n\n#carsandcars #occasion #garage #cheseaux #lausanne #fiat",
-      "legende": "🚗 Fiat Barchetta 1.8 ABS — CHF 4'900\n2003 · 158'000 km · Essence · Manuelle\n\nVoiture en super état - Climatisation - Expertisée du jour - Service du jour - Pare-Chocs légèrement abimé à l'avant\n\n👉 Essai sur rendez-vous · 021 731 38 70\nChemin de Mon-Repos 1, 1033 Cheseaux-sur-Lausanne\n\n#carsandcars #occasion #garage #cheseaux #lausanne #fiat"
+      "legende": "🚗 Fiat Barchetta 1.8 ABS — CHF 4'900\n2003 · 158'000 km · Essence · Manuelle\n\nVoiture en super état - Climatisation - Expertisée du jour - Service du jour - Pare-Chocs légèrement abimé à l'avant\n\n👉 Essai sur rendez-vous · 021 731 38 70\nChemin de Mon-Repos 1, 1033 Cheseaux-sur-Lausanne\n\n#carsandcars #occasion #garage #cheseaux #lausanne #fiat",
+      "media": {
+        "instagram": "18127217305846802"
+      }
     },
     {
       "id": "carrousel-20420476",
