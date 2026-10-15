@@ -1,6 +1,6 @@
 {
   "schema": "cac.plan_publication/2",
-  "mis_a_jour_le": "2026-10-14T18:01:26+02:00",
+  "mis_a_jour_le": "2026-10-15T07:33:33+02:00",
   "entrees": [
     {
       "id": "carrousel-20622081",
@@ -827,6 +827,46 @@
         "facebook": "106433960005560_1688210866644481",
         "instagram": "18105242831631649"
       }
+    },
+    {
+      "id": "carrousel-20906592",
+      "type": "carrousel",
+      "titre": "MINI Clubman Cooper S ALL4",
+      "statut": "prevu",
+      "quand": "2026-10-26T09:00:00+01:00",
+      "prix_chf": 14900,
+      "variante": "normale",
+      "rang": 16,
+      "categorie": "car",
+      "detecte_le": "2026-10-15T07:30:00+02:00",
+      "pourquoi": "Créneau corporate (lun 09:00 / mer 18:00 / ven 18:00) — 5ᵉ de la file, prévu 26.10 à 09:00.",
+      "vignette": "https://sdicrosta-gifhub.github.io/cac-apercu/img/20906592_MINI_Clubman_Cooper_S_ALL4__1_hero.jpg",
+      "diapos": [
+        "https://sdicrosta-gifhub.github.io/cac-apercu/img/20906592_MINI_Clubman_Cooper_S_ALL4__1_hero.jpg",
+        "https://sdicrosta-gifhub.github.io/cac-apercu/img/20906592_MINI_Clubman_Cooper_S_ALL4__2_photo.jpg",
+        "https://sdicrosta-gifhub.github.io/cac-apercu/img/20906592_MINI_Clubman_Cooper_S_ALL4__3_photo.jpg",
+        "https://sdicrosta-gifhub.github.io/cac-apercu/img/20906592_MINI_Clubman_Cooper_S_ALL4__4_photo.jpg",
+        "https://sdicrosta-gifhub.github.io/cac-apercu/img/20906592_MINI_Clubman_Cooper_S_ALL4__5_points_forts.jpg",
+        "https://sdicrosta-gifhub.github.io/cac-apercu/img/20906592_MINI_Clubman_Cooper_S_ALL4__6_technique.jpg",
+        "https://sdicrosta-gifhub.github.io/cac-apercu/img/20906592_MINI_Clubman_Cooper_S_ALL4__7_cta.jpg"
+      ],
+      "legende": "🚗 MINI Clubman Cooper S ALL4 — CHF 14'900\n2017 · 107'700 km · Essence · Manuelle\n\nVoiture en super état - tous les services suivis - expertisée du jour - Garantie 12 mois - 2 Jeux de roues\n\n👉 Essai sur rendez-vous · 021 731 38 70\nChemin de Mon-Repos 1, 1033 Cheseaux-sur-Lausanne\n\n#carsandcars #occasion #garage #cheseaux #lausanne #mini"
+    },
+    {
+      "id": "reel-20906592",
+      "type": "reel",
+      "titre": "MINI Clubman Cooper S ALL4",
+      "statut": "prevu",
+      "quand": "2026-10-27T12:00:00+01:00",
+      "prix_chf": 14900,
+      "detecte_le": "2026-10-15T07:30:00+02:00",
+      "pourquoi": "Reel : il part le lendemain de son carrousel, à 12:00.",
+      "vignette": "https://sdicrosta-gifhub.github.io/cac-apercu/affiches/reel_20906592.jpg",
+      "diapos": [],
+      "video": "https://sdicrosta-gifhub.github.io/cac-apercu/img/REEL_20906592__reel_20906592.mp4",
+      "video_fb": "https://sdicrosta-gifhub.github.io/cac-apercu/img/REEL_20906592__reel_20906592_sans_musique.mp4",
+      "legende_fb": "🚗 MINI Clubman Cooper S ALL4 — CHF 14'900\n2017 · 107'700 km · Essence · Manuelle\n\nVoiture en super état - tous les services suivis - expertisée du jour - Garantie 12 mois - 2 Jeux de roues\n\n👉 Essai sur rendez-vous · 021 731 38 70\nChemin de Mon-Repos 1, 1033 Cheseaux-sur-Lausanne\n\n#carsandcars #occasion #garage #cheseaux #lausanne #mini",
+      "legende": "🚗 MINI Clubman Cooper S ALL4 — CHF 14'900\n2017 · 107'700 km · Essence · Manuelle\n\nVoiture en super état - tous les services suivis - expertisée du jour - Garantie 12 mois - 2 Jeux de roues\n\n👉 Essai sur rendez-vous · 021 731 38 70\nChemin de Mon-Repos 1, 1033 Cheseaux-sur-Lausanne\n\n#carsandcars #occasion #garage #cheseaux #lausanne #mini"
     }
   ]
 }
