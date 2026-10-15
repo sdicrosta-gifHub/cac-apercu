@@ -1,6 +1,6 @@
 {
   "schema": "cac.plan_publication/2",
-  "mis_a_jour_le": "2026-10-15T07:33:33+02:00",
+  "mis_a_jour_le": "2026-10-15T12:01:27+02:00",
   "entrees": [
     {
       "id": "carrousel-20622081",
@@ -584,16 +584,20 @@
       "id": "reel-20420476",
       "type": "reel",
       "titre": "Land Rover Range Rover Evoque R-Dynamic P 300e AB AT8",
-      "statut": "prevu",
+      "statut": "publie",
       "quand": "2026-10-15T12:00:00+02:00",
+      "publie_le": "2026-10-15T12:01:27+02:00",
       "prix_chf": 24900,
-      "pourquoi": "Reel : il part le lendemain de son carrousel, à 12:00.",
+      "pourquoi": "Publié 15.10 à 12:01 — date figée, le journal fait foi.",
       "vignette": "https://sdicrosta-gifhub.github.io/cac-apercu/affiches/reel_20420476.jpg",
       "diapos": [],
       "video": "https://sdicrosta-gifhub.github.io/cac-apercu/img/REEL_20420476__reel_20420476.mp4",
       "video_fb": "https://sdicrosta-gifhub.github.io/cac-apercu/img/REEL_20420476__reel_20420476_sans_musique.mp4",
       "legende_fb": "🚗 Land Rover Range Rover Evoque R-Dynamic P 300e AB AT8 — CHF 24'900\n2021 · 160'500 km · Hybride rechargeable · Automatique\n\nVoiture à l'état de neuf - Tous les service suivis à l'agence - FULL Options - Expertisée du jour - Garantie 12 mois Base - 2 Jeux de roues\n\n👉 Essai sur rendez-vous · 021 731 38 70\nChemin de Mon-Repos 1, 1033 Cheseaux-sur-Lausanne\n\n#carsandcars #occasion #garage #cheseaux #lausanne #landrover",
-      "legende": "🚗 Land Rover Range Rover Evoque R-Dynamic P 300e AB AT8 — CHF 24'900\n2021 · 160'500 km · Hybride rechargeable · Automatique\n\nVoiture à l'état de neuf - Tous les service suivis à l'agence - FULL Options - Expertisée du jour - Garantie 12 mois Base - 2 Jeux de roues\n\n👉 Essai sur rendez-vous · 021 731 38 70\nChemin de Mon-Repos 1, 1033 Cheseaux-sur-Lausanne\n\n#carsandcars #occasion #garage #cheseaux #lausanne #landrover"
+      "legende": "🚗 Land Rover Range Rover Evoque R-Dynamic P 300e AB AT8 — CHF 24'900\n2021 · 160'500 km · Hybride rechargeable · Automatique\n\nVoiture à l'état de neuf - Tous les service suivis à l'agence - FULL Options - Expertisée du jour - Garantie 12 mois Base - 2 Jeux de roues\n\n👉 Essai sur rendez-vous · 021 731 38 70\nChemin de Mon-Repos 1, 1033 Cheseaux-sur-Lausanne\n\n#carsandcars #occasion #garage #cheseaux #lausanne #landrover",
+      "media": {
+        "instagram": "17983128555094973"
+      }
     },
     {
       "id": "carrousel-12916329",
