@@ -1,6 +1,6 @@
 {
   "schema": "cac.plan_publication/2",
-  "mis_a_jour_le": "2026-10-16T18:00:51+02:00",
+  "mis_a_jour_le": "2026-10-17T12:00:43+02:00",
   "entrees": [
     {
       "id": "carrousel-20622081",
@@ -631,16 +631,20 @@
       "id": "reel-12916329",
       "type": "reel",
       "titre": "Fiat 595 1.4 16V Turbo Abarth Competizione Dualogic",
-      "statut": "prevu",
+      "statut": "publie",
       "quand": "2026-10-17T12:00:00+02:00",
+      "publie_le": "2026-10-17T12:00:43+02:00",
       "prix_chf": 24900,
-      "pourquoi": "Reel : il part le lendemain de son carrousel, à 12:00.",
+      "pourquoi": "Publié 17.10 à 12:00 — date figée, le journal fait foi.",
       "vignette": "https://sdicrosta-gifhub.github.io/cac-apercu/affiches/reel_12916329.jpg",
       "diapos": [],
       "video": "https://sdicrosta-gifhub.github.io/cac-apercu/img/REEL_12916329__reel_12916329.mp4",
       "video_fb": "https://sdicrosta-gifhub.github.io/cac-apercu/img/REEL_12916329__reel_12916329_sans_musique.mp4",
       "legende_fb": "🚗 Fiat 595 1.4 16V Turbo Abarth Competizione Dualogic — CHF 24'900\n2019 · 30'000 km · Essence · Automatique robotisée\n\nVoiture à l'état de neuf - Service suivis - expertisée du jour - Garantie 12 mois base - 2 Jeux de pneus\n\n👉 Essai sur rendez-vous · 021 731 38 70\nChemin de Mon-Repos 1, 1033 Cheseaux-sur-Lausanne\n\n#carsandcars #occasion #garage #cheseaux #lausanne #fiat",
-      "legende": "🚗 Fiat 595 1.4 16V Turbo Abarth Competizione Dualogic — CHF 24'900\n2019 · 30'000 km · Essence · Automatique robotisée\n\nVoiture à l'état de neuf - Service suivis - expertisée du jour - Garantie 12 mois base - 2 Jeux de pneus\n\n👉 Essai sur rendez-vous · 021 731 38 70\nChemin de Mon-Repos 1, 1033 Cheseaux-sur-Lausanne\n\n#carsandcars #occasion #garage #cheseaux #lausanne #fiat"
+      "legende": "🚗 Fiat 595 1.4 16V Turbo Abarth Competizione Dualogic — CHF 24'900\n2019 · 30'000 km · Essence · Automatique robotisée\n\nVoiture à l'état de neuf - Service suivis - expertisée du jour - Garantie 12 mois base - 2 Jeux de pneus\n\n👉 Essai sur rendez-vous · 021 731 38 70\nChemin de Mon-Repos 1, 1033 Cheseaux-sur-Lausanne\n\n#carsandcars #occasion #garage #cheseaux #lausanne #fiat",
+      "media": {
+        "instagram": "17884493736688529"
+      }
     },
     {
       "id": "hors-vente-sortie-rolle-2026",
