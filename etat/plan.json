@@ -1,6 +1,6 @@
 {
   "schema": "cac.plan_publication/2",
-  "mis_a_jour_le": "2026-10-20T07:32:05+02:00",
+  "mis_a_jour_le": "2026-10-20T12:01:15+02:00",
   "entrees": [
     {
       "id": "carrousel-20622081",
@@ -83,17 +83,21 @@
       "id": "reel-20258718",
       "type": "reel",
       "titre": "Humbaur HUT3500",
-      "statut": "prevu",
+      "statut": "publie",
       "quand": "2026-10-20T12:00:00+02:00",
+      "publie_le": "2026-10-20T12:01:15+02:00",
       "prix_chf": 8500,
       "ancien_prix_chf": 9500,
-      "pourquoi": "Reel : il part le lendemain de son carrousel, à 12:00.",
+      "pourquoi": "Publié 20.10 à 12:01 — date figée, le journal fait foi.",
       "vignette": "https://sdicrosta-gifhub.github.io/cac-apercu/affiches/reel_20258718.jpg",
       "diapos": [],
       "video": "https://sdicrosta-gifhub.github.io/cac-apercu/img/REEL_20258718__reel_20258718.mp4",
       "video_fb": "https://sdicrosta-gifhub.github.io/cac-apercu/img/REEL_20258718__reel_20258718_sans_musique.mp4",
       "legende_fb": "📉 Baisse de prix\nHumbaur HUT3500 — CHF 8'500 au lieu de CHF 9'500\n2017 · Remorque\n\nRemorque Basculante En parfait état expertisée - charge totale 3500 kg - Treuil Electrique avec télécommande\n\n👉 Visite sur rendez-vous · 021 731 38 70\nChemin de Mon-Repos 1, 1033 Cheseaux-sur-Lausanne\n\n#carsandcars #occasion #garage #cheseaux #lausanne #humbaur #remorque",
-      "legende": "📉 Baisse de prix\nHumbaur HUT3500 — CHF 8'500 au lieu de CHF 9'500\n2017 · Remorque\n\nRemorque Basculante En parfait état expertisée - charge totale 3500 kg - Treuil Electrique avec télécommande\n\n👉 Visite sur rendez-vous · 021 731 38 70\nChemin de Mon-Repos 1, 1033 Cheseaux-sur-Lausanne\n\n#carsandcars #occasion #garage #cheseaux #lausanne #humbaur #remorque"
+      "legende": "📉 Baisse de prix\nHumbaur HUT3500 — CHF 8'500 au lieu de CHF 9'500\n2017 · Remorque\n\nRemorque Basculante En parfait état expertisée - charge totale 3500 kg - Treuil Electrique avec télécommande\n\n👉 Visite sur rendez-vous · 021 731 38 70\nChemin de Mon-Repos 1, 1033 Cheseaux-sur-Lausanne\n\n#carsandcars #occasion #garage #cheseaux #lausanne #humbaur #remorque",
+      "media": {
+        "instagram": "18339795688256866"
+      }
     },
     {
       "id": "carrousel-20804981",
