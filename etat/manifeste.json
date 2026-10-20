@@ -1,8 +1,8 @@
 {
   "schema": "cac.miroir_social/1",
-  "horodatage": "2026-10-19T14:00:00+02:00",
-  "passage": "publication",
-  "code_sortie": 0,
+  "horodatage": "2026-10-20T07:32:06+02:00",
+  "passage": "prix",
+  "code_sortie": 2,
   "plan_schema_ok": true,
-  "nb_entrees": 41
+  "nb_entrees": 43
 }
