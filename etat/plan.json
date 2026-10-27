@@ -1,6 +1,6 @@
 {
   "schema": "cac.plan_publication/2",
-  "mis_a_jour_le": "2026-10-26T09:01:19+01:00",
+  "mis_a_jour_le": "2026-10-27T12:01:32+01:00",
   "entrees": [
     {
       "id": "carrousel-20622081",
@@ -901,17 +901,21 @@
       "id": "reel-20906592",
       "type": "reel",
       "titre": "MINI Clubman Cooper S ALL4",
-      "statut": "prevu",
+      "statut": "publie",
       "quand": "2026-10-27T12:00:00+01:00",
+      "publie_le": "2026-10-27T12:01:32+01:00",
       "prix_chf": 14900,
       "detecte_le": "2026-10-15T07:30:00+02:00",
-      "pourquoi": "Reel : il part le lendemain de son carrousel, à 12:00.",
+      "pourquoi": "Publié 27.10 à 12:01 — date figée, le journal fait foi.",
       "vignette": "https://sdicrosta-gifhub.github.io/cac-apercu/affiches/reel_20906592.jpg",
       "diapos": [],
       "video": "https://sdicrosta-gifhub.github.io/cac-apercu/img/REEL_20906592__reel_20906592.mp4",
       "video_fb": "https://sdicrosta-gifhub.github.io/cac-apercu/img/REEL_20906592__reel_20906592_sans_musique.mp4",
       "legende_fb": "🚗 MINI Clubman Cooper S ALL4 — CHF 14'900\n2017 · 107'700 km · Essence · Manuelle\n\nVoiture en super état - tous les services suivis - expertisée du jour - Garantie 12 mois - 2 Jeux de roues\n\n👉 Essai sur rendez-vous · 021 731 38 70\nChemin de Mon-Repos 1, 1033 Cheseaux-sur-Lausanne\n\n#carsandcars #occasion #garage #cheseaux #lausanne #mini",
-      "legende": "🚗 MINI Clubman Cooper S ALL4 — CHF 14'900\n2017 · 107'700 km · Essence · Manuelle\n\nVoiture en super état - tous les services suivis - expertisée du jour - Garantie 12 mois - 2 Jeux de roues\n\n👉 Essai sur rendez-vous · 021 731 38 70\nChemin de Mon-Repos 1, 1033 Cheseaux-sur-Lausanne\n\n#carsandcars #occasion #garage #cheseaux #lausanne #mini"
+      "legende": "🚗 MINI Clubman Cooper S ALL4 — CHF 14'900\n2017 · 107'700 km · Essence · Manuelle\n\nVoiture en super état - tous les services suivis - expertisée du jour - Garantie 12 mois - 2 Jeux de roues\n\n👉 Essai sur rendez-vous · 021 731 38 70\nChemin de Mon-Repos 1, 1033 Cheseaux-sur-Lausanne\n\n#carsandcars #occasion #garage #cheseaux #lausanne #mini",
+      "media": {
+        "instagram": "18025330559927283"
+      }
     },
     {
       "id": "carrousel-20910189",
