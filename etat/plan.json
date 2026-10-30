@@ -1,6 +1,6 @@
 {
   "schema": "cac.plan_publication/2",
-  "mis_a_jour_le": "2026-10-29T12:00:41+01:00",
+  "mis_a_jour_le": "2026-10-30T18:02:00+01:00",
   "entrees": [
     {
       "id": "carrousel-20622081",
@@ -970,14 +970,15 @@
       "id": "carrousel-20918676",
       "type": "carrousel",
       "titre": "FORD Puma 1.0 MHEV ST-Line",
-      "statut": "prevu",
+      "statut": "publie",
       "quand": "2026-10-30T18:00:00+01:00",
+      "publie_le": "2026-10-30T18:01:29+01:00",
       "prix_chf": 17900,
       "variante": "normale",
       "rang": 18,
       "categorie": "car",
       "detecte_le": "2026-10-20T07:30:00+02:00",
-      "pourquoi": "Créneau corporate (lun 09:00 / mer 18:00 / ven 18:00) — 1re de la file, prévu 30.10 à 18:00.",
+      "pourquoi": "Publié 30.10 à 18:01 — date figée, le journal fait foi.",
       "vignette": "https://sdicrosta-gifhub.github.io/cac-apercu/img/20918676_FORD_Puma_1_0_MHEV_ST_Line__1_hero.jpg",
       "diapos": [
         "https://sdicrosta-gifhub.github.io/cac-apercu/img/20918676_FORD_Puma_1_0_MHEV_ST_Line__1_hero.jpg",
@@ -988,7 +989,11 @@
         "https://sdicrosta-gifhub.github.io/cac-apercu/img/20918676_FORD_Puma_1_0_MHEV_ST_Line__6_technique.jpg",
         "https://sdicrosta-gifhub.github.io/cac-apercu/img/20918676_FORD_Puma_1_0_MHEV_ST_Line__7_cta.jpg"
       ],
-      "legende": "🚗 Ford Puma 1.0 MHEV ST-Line — CHF 17'900\n2023 · 25'200 km · Hybride léger · Manuelle\n\nVoiture à l'état de neuf - 1er main - Expertisée - 2 jeux de roues - Garantie 12 mois\n\n👉 Essai sur rendez-vous · 021 731 38 70\nChemin de Mon-Repos 1, 1033 Cheseaux-sur-Lausanne\n\n#carsandcars #occasion #garage #cheseaux #lausanne #ford"
+      "legende": "🚗 Ford Puma 1.0 MHEV ST-Line — CHF 17'900\n2023 · 25'200 km · Hybride léger · Manuelle\n\nVoiture à l'état de neuf - 1er main - Expertisée - 2 jeux de roues - Garantie 12 mois\n\n👉 Essai sur rendez-vous · 021 731 38 70\nChemin de Mon-Repos 1, 1033 Cheseaux-sur-Lausanne\n\n#carsandcars #occasion #garage #cheseaux #lausanne #ford",
+      "media": {
+        "facebook": "106433960005560_1728009272664640",
+        "instagram": "18154991338531068"
+      }
     },
     {
       "id": "reel-20918676",
