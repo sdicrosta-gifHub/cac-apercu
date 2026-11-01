@@ -1,6 +1,6 @@
 {
   "schema": "cac.plan_publication/2",
-  "mis_a_jour_le": "2026-10-30T18:02:00+01:00",
+  "mis_a_jour_le": "2026-11-01T07:30:03+01:00",
   "entrees": [
     {
       "id": "carrousel-20622081",
@@ -1000,7 +1000,7 @@
       "type": "reel",
       "titre": "FORD Puma 1.0 MHEV ST-Line",
       "statut": "prevu",
-      "quand": "2026-10-31T12:00:00+01:00",
+      "quand": "2026-11-01T12:00:00+01:00",
       "prix_chf": 17900,
       "detecte_le": "2026-10-20T07:30:00+02:00",
       "pourquoi": "Reel : il part le lendemain de son carrousel, à 12:00.",
