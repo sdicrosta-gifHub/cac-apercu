@@ -4,8 +4,8 @@
     "code_sortie": 0
   },
   "prix": {
-    "horodatage": "2026-11-04T07:30:00+01:00",
-    "code_sortie": 0
+    "horodatage": "2026-11-05T07:30:00+01:00",
+    "code_sortie": 2
   },
   "jeton": {
     "horodatage": "2026-11-04T17:05:00.398119+00:00",
@@ -13,7 +13,7 @@
   },
   "attention": {
     "david": false,
-    "stefano": false,
+    "stefano": true,
     "mercredi": null,
     "echeance": null
   }
