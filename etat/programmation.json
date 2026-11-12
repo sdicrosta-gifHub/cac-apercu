@@ -1,12 +1,6 @@
 {
   "mercredis": [
     {
-      "mercredi": "2026-11-11",
-      "echeance": "2026-11-10T18:00:00+01:00",
-      "etat": "echeance_passee",
-      "entree": null
-    },
-    {
       "mercredi": "2026-11-18",
       "echeance": "2026-11-17T18:00:00+01:00",
       "etat": "libre",
@@ -45,6 +39,12 @@
     {
       "mercredi": "2026-12-30",
       "echeance": "2026-12-29T18:00:00+01:00",
+      "etat": "libre",
+      "entree": null
+    },
+    {
+      "mercredi": "2027-01-06",
+      "echeance": "2027-01-05T18:00:00+01:00",
       "etat": "libre",
       "entree": null
     }
@@ -110,9 +110,9 @@
     }
   ],
   "pont": {
-    "dernier_passage": "2026-11-11T20:00:00+01:00",
+    "dernier_passage": "2026-11-12T07:30:00+01:00",
     "code_sortie": 0,
-    "prochain_passage": "2026-11-11T20:05:00+01:00",
+    "prochain_passage": "2026-11-12T07:35:00+01:00",
     "publier_maintenant": true
   }
 }
