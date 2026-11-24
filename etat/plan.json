@@ -1,6 +1,6 @@
 {
   "schema": "cac.plan_publication/2",
-  "mis_a_jour_le": "2026-11-21T12:01:09+01:00",
+  "mis_a_jour_le": "2026-11-24T07:32:47+01:00",
   "entrees": [
     {
       "id": "carrousel-20622081",
@@ -989,7 +989,7 @@
         "https://sdicrosta-gifhub.github.io/cac-apercu/img/20918676_FORD_Puma_1_0_MHEV_ST_Line__6_technique.jpg",
         "https://sdicrosta-gifhub.github.io/cac-apercu/img/20918676_FORD_Puma_1_0_MHEV_ST_Line__7_cta.jpg"
       ],
-      "legende": "🚗 Ford Puma 1.0 MHEV ST-Line — CHF 17'900\n2023 · 25'200 km · Hybride léger · Manuelle\n\nVoiture à l'état de neuf - 1er main - Expertisée - 2 jeux de roues - Garantie 12 mois\n\n👉 Essai sur rendez-vous · 021 731 38 70\nChemin de Mon-Repos 1, 1033 Cheseaux-sur-Lausanne\n\n#carsandcars #occasion #garage #cheseaux #lausanne #ford",
+      "legende": "📉 Baisse de prix\n🚗 Ford Puma 1.0 MHEV ST-Line — CHF 15'900 au lieu de CHF 17'900\n2023 · 25'200 km · Hybride léger · Manuelle\n\nVoiture à l'état de neuf - 1er main - Expertisée - 2 jeux de roues - Garantie 12 mois\n\n👉 Essai sur rendez-vous · 021 731 38 70\nChemin de Mon-Repos 1, 1033 Cheseaux-sur-Lausanne\n\n#carsandcars #occasion #garage #cheseaux #lausanne #ford",
       "media": {
         "facebook": "106433960005560_1728009272664640",
         "instagram": "18154991338531068"
@@ -1009,8 +1009,8 @@
       "diapos": [],
       "video": "https://sdicrosta-gifhub.github.io/cac-apercu/img/REEL_20918676__reel_20918676.mp4",
       "video_fb": "https://sdicrosta-gifhub.github.io/cac-apercu/img/REEL_20918676__reel_20918676_sans_musique.mp4",
-      "legende_fb": "🚗 Ford Puma 1.0 MHEV ST-Line — CHF 17'900\n2023 · 25'200 km · Hybride léger · Manuelle\n\nVoiture à l'état de neuf - 1er main - Expertisée - 2 jeux de roues - Garantie 12 mois\n\n👉 Essai sur rendez-vous · 021 731 38 70\nChemin de Mon-Repos 1, 1033 Cheseaux-sur-Lausanne\n\n#carsandcars #occasion #garage #cheseaux #lausanne #ford",
-      "legende": "🚗 Ford Puma 1.0 MHEV ST-Line — CHF 17'900\n2023 · 25'200 km · Hybride léger · Manuelle\n\nVoiture à l'état de neuf - 1er main - Expertisée - 2 jeux de roues - Garantie 12 mois\n\n👉 Essai sur rendez-vous · 021 731 38 70\nChemin de Mon-Repos 1, 1033 Cheseaux-sur-Lausanne\n\n#carsandcars #occasion #garage #cheseaux #lausanne #ford",
+      "legende_fb": "📉 Baisse de prix\n🚗 Ford Puma 1.0 MHEV ST-Line — CHF 15'900 au lieu de CHF 17'900\n2023 · 25'200 km · Hybride léger · Manuelle\n\nVoiture à l'état de neuf - 1er main - Expertisée - 2 jeux de roues - Garantie 12 mois\n\n👉 Essai sur rendez-vous · 021 731 38 70\nChemin de Mon-Repos 1, 1033 Cheseaux-sur-Lausanne\n\n#carsandcars #occasion #garage #cheseaux #lausanne #ford",
+      "legende": "📉 Baisse de prix\n🚗 Ford Puma 1.0 MHEV ST-Line — CHF 15'900 au lieu de CHF 17'900\n2023 · 25'200 km · Hybride léger · Manuelle\n\nVoiture à l'état de neuf - 1er main - Expertisée - 2 jeux de roues - Garantie 12 mois\n\n👉 Essai sur rendez-vous · 021 731 38 70\nChemin de Mon-Repos 1, 1033 Cheseaux-sur-Lausanne\n\n#carsandcars #occasion #garage #cheseaux #lausanne #ford",
       "media": {
         "instagram": "17912855466487232"
       }
@@ -1063,6 +1063,55 @@
       "media": {
         "instagram": "18122174977994407"
       }
+    },
+    {
+      "id": "baisse-20096946-21900",
+      "type": "carrousel",
+      "titre": "Mercedes-Benz GLC 350 e AMG Line 4Matic 7G-Tronic",
+      "statut": "bloque_prix",
+      "prix_chf": 21900,
+      "ancien_prix_chf": 23900,
+      "variante": "baisse_de_prix",
+      "rang": 2,
+      "categorie": "car",
+      "detecte_le": "2026-11-24T07:30:00+01:00",
+      "pourquoi": "Prix augmenté sur AutoScout24 : le visuel doit être régénéré au bon prix avant de partir.",
+      "vignette": "https://sdicrosta-gifhub.github.io/cac-apercu/img/20096946_MERCEDES_BENZ_GLC_350_e_AMG_Line_4__1_hero.jpg",
+      "diapos": [
+        "https://sdicrosta-gifhub.github.io/cac-apercu/img/20096946_MERCEDES_BENZ_GLC_350_e_AMG_Line_4__1_hero.jpg",
+        "https://sdicrosta-gifhub.github.io/cac-apercu/img/20096946_MERCEDES_BENZ_GLC_350_e_AMG_Line_4__2_photo.jpg",
+        "https://sdicrosta-gifhub.github.io/cac-apercu/img/20096946_MERCEDES_BENZ_GLC_350_e_AMG_Line_4__3_photo.jpg",
+        "https://sdicrosta-gifhub.github.io/cac-apercu/img/20096946_MERCEDES_BENZ_GLC_350_e_AMG_Line_4__4_photo.jpg",
+        "https://sdicrosta-gifhub.github.io/cac-apercu/img/20096946_MERCEDES_BENZ_GLC_350_e_AMG_Line_4__5_points_forts.jpg",
+        "https://sdicrosta-gifhub.github.io/cac-apercu/img/20096946_MERCEDES_BENZ_GLC_350_e_AMG_Line_4__6_technique.jpg",
+        "https://sdicrosta-gifhub.github.io/cac-apercu/img/20096946_MERCEDES_BENZ_GLC_350_e_AMG_Line_4__7_cta.jpg"
+      ],
+      "legende": "🚗 Mercedes-Benz GLC 350 e AMG Line 4Matic 7G-Tronic — CHF 23'900\n2017 · 145'000 km · Hybride rechargeable · Automatique\n\nVoiture en super état - Expertisée du jour - Garantie 12 mois - 2 Jeux de roues - Câbles chargeurs inclus\n\n👉 Essai sur rendez-vous · 021 731 38 70\nChemin de Mon-Repos 1, 1033 Cheseaux-sur-Lausanne\n\n#carsandcars #occasion #garage #cheseaux #lausanne #mercedesbenz"
+    },
+    {
+      "id": "baisse-20918676-15900",
+      "type": "carrousel",
+      "titre": "FORD Puma 1.0 MHEV ST-Line",
+      "statut": "prevu",
+      "quand": "2026-11-25T18:00:00+01:00",
+      "prix_chf": 15900,
+      "ancien_prix_chf": 17900,
+      "variante": "baisse_de_prix",
+      "rang": 3,
+      "categorie": "car",
+      "detecte_le": "2026-11-24T07:30:00+01:00",
+      "pourquoi": "Baisse de prix détectée le 24.11 : la voiture passe devant la file (priorité baisse) et part 25.11 à 18:00.",
+      "vignette": "https://sdicrosta-gifhub.github.io/cac-apercu/img/20918676_FORD_Puma_1_0_MHEV_ST_Line__1_hero.jpg",
+      "diapos": [
+        "https://sdicrosta-gifhub.github.io/cac-apercu/img/20918676_FORD_Puma_1_0_MHEV_ST_Line__1_hero.jpg",
+        "https://sdicrosta-gifhub.github.io/cac-apercu/img/20918676_FORD_Puma_1_0_MHEV_ST_Line__2_photo.jpg",
+        "https://sdicrosta-gifhub.github.io/cac-apercu/img/20918676_FORD_Puma_1_0_MHEV_ST_Line__3_photo.jpg",
+        "https://sdicrosta-gifhub.github.io/cac-apercu/img/20918676_FORD_Puma_1_0_MHEV_ST_Line__4_photo.jpg",
+        "https://sdicrosta-gifhub.github.io/cac-apercu/img/20918676_FORD_Puma_1_0_MHEV_ST_Line__5_points_forts.jpg",
+        "https://sdicrosta-gifhub.github.io/cac-apercu/img/20918676_FORD_Puma_1_0_MHEV_ST_Line__6_technique.jpg",
+        "https://sdicrosta-gifhub.github.io/cac-apercu/img/20918676_FORD_Puma_1_0_MHEV_ST_Line__7_cta.jpg"
+      ],
+      "legende": "📉 Baisse de prix\n🚗 Ford Puma 1.0 MHEV ST-Line — CHF 15'900 au lieu de CHF 17'900\n2023 · 25'200 km · Hybride léger · Manuelle\n\nVoiture à l'état de neuf - 1er main - Expertisée - 2 jeux de roues - Garantie 12 mois\n\n👉 Essai sur rendez-vous · 021 731 38 70\nChemin de Mon-Repos 1, 1033 Cheseaux-sur-Lausanne\n\n#carsandcars #occasion #garage #cheseaux #lausanne #ford"
     }
   ]
 }
