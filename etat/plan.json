@@ -1,6 +1,6 @@
 {
   "schema": "cac.plan_publication/2",
-  "mis_a_jour_le": "2026-11-24T07:32:47+01:00",
+  "mis_a_jour_le": "2026-11-25T07:35:14+01:00",
   "entrees": [
     {
       "id": "carrousel-20622081",
@@ -1112,6 +1112,46 @@
         "https://sdicrosta-gifhub.github.io/cac-apercu/img/20918676_FORD_Puma_1_0_MHEV_ST_Line__7_cta.jpg"
       ],
       "legende": "📉 Baisse de prix\n🚗 Ford Puma 1.0 MHEV ST-Line — CHF 15'900 au lieu de CHF 17'900\n2023 · 25'200 km · Hybride léger · Manuelle\n\nVoiture à l'état de neuf - 1er main - Expertisée - 2 jeux de roues - Garantie 12 mois\n\n👉 Essai sur rendez-vous · 021 731 38 70\nChemin de Mon-Repos 1, 1033 Cheseaux-sur-Lausanne\n\n#carsandcars #occasion #garage #cheseaux #lausanne #ford"
+    },
+    {
+      "id": "carrousel-21018598",
+      "type": "carrousel",
+      "titre": "PORSCHE Macan S PDK",
+      "statut": "prevu",
+      "quand": "2026-11-27T18:00:00+01:00",
+      "prix_chf": 49900,
+      "variante": "normale",
+      "rang": 20,
+      "categorie": "car",
+      "detecte_le": "2026-11-25T07:30:00+01:00",
+      "pourquoi": "Créneau corporate (lun 09:00 / mer 18:00 / ven 18:00) — 2ᵉ de la file, prévu 27.11 à 18:00.",
+      "vignette": "https://sdicrosta-gifhub.github.io/cac-apercu/img/21018598_PORSCHE_Macan_S_PDK__1_hero.jpg",
+      "diapos": [
+        "https://sdicrosta-gifhub.github.io/cac-apercu/img/21018598_PORSCHE_Macan_S_PDK__1_hero.jpg",
+        "https://sdicrosta-gifhub.github.io/cac-apercu/img/21018598_PORSCHE_Macan_S_PDK__2_photo.jpg",
+        "https://sdicrosta-gifhub.github.io/cac-apercu/img/21018598_PORSCHE_Macan_S_PDK__3_photo.jpg",
+        "https://sdicrosta-gifhub.github.io/cac-apercu/img/21018598_PORSCHE_Macan_S_PDK__4_photo.jpg",
+        "https://sdicrosta-gifhub.github.io/cac-apercu/img/21018598_PORSCHE_Macan_S_PDK__5_points_forts.jpg",
+        "https://sdicrosta-gifhub.github.io/cac-apercu/img/21018598_PORSCHE_Macan_S_PDK__6_technique.jpg",
+        "https://sdicrosta-gifhub.github.io/cac-apercu/img/21018598_PORSCHE_Macan_S_PDK__7_cta.jpg"
+      ],
+      "legende": "🚗 Porsche Macan S PDK — CHF 49'900\n2023 · 74'150 km · Essence · Automatique\n\nVoiture en super état - Services suivis - Expertisée du jour - Full Options - 2 Jeux de pneus - Garantie 12 mois Base\n\n👉 Essai sur rendez-vous · 021 731 38 70\nChemin de Mon-Repos 1, 1033 Cheseaux-sur-Lausanne\n\n#carsandcars #occasion #garage #cheseaux #lausanne #porsche"
+    },
+    {
+      "id": "reel-21018598",
+      "type": "reel",
+      "titre": "PORSCHE Macan S PDK",
+      "statut": "prevu",
+      "quand": "2026-11-28T12:00:00+01:00",
+      "prix_chf": 49900,
+      "detecte_le": "2026-11-25T07:30:00+01:00",
+      "pourquoi": "Reel : il part le lendemain de son carrousel, à 12:00.",
+      "vignette": "https://sdicrosta-gifhub.github.io/cac-apercu/affiches/reel_21018598.jpg",
+      "diapos": [],
+      "video": "https://sdicrosta-gifhub.github.io/cac-apercu/img/REEL_21018598__reel_21018598.mp4",
+      "video_fb": "https://sdicrosta-gifhub.github.io/cac-apercu/img/REEL_21018598__reel_21018598_sans_musique.mp4",
+      "legende_fb": "🚗 Porsche Macan S PDK — CHF 49'900\n2023 · 74'150 km · Essence · Automatique\n\nVoiture en super état - Services suivis - Expertisée du jour - Full Options - 2 Jeux de pneus - Garantie 12 mois Base\n\n👉 Essai sur rendez-vous · 021 731 38 70\nChemin de Mon-Repos 1, 1033 Cheseaux-sur-Lausanne\n\n#carsandcars #occasion #garage #cheseaux #lausanne #porsche",
+      "legende": "🚗 Porsche Macan S PDK — CHF 49'900\n2023 · 74'150 km · Essence · Automatique\n\nVoiture en super état - Services suivis - Expertisée du jour - Full Options - 2 Jeux de pneus - Garantie 12 mois Base\n\n👉 Essai sur rendez-vous · 021 731 38 70\nChemin de Mon-Repos 1, 1033 Cheseaux-sur-Lausanne\n\n#carsandcars #occasion #garage #cheseaux #lausanne #porsche"
     }
   ]
 }
