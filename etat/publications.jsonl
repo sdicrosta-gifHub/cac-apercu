@@ -1,5 +1,3 @@
-{"quand": "2026-09-30T18:01:27+02:00", "entree": "carrousel-20734420", "type": "carrousel", "reseau": "facebook", "ok": true, "simule": false}
-{"quand": "2026-10-01T12:01:29+02:00", "entree": "reel-20734420", "type": "reel", "reseau": "instagram", "ok": true, "simule": false}
 {"quand": "2026-10-01T12:01:38+02:00", "entree": "reel-20734420", "type": "reel", "reseau": "facebook", "ok": true, "simule": false}
 {"quand": "2026-10-02T18:01:29+02:00", "entree": "carrousel-20253533", "type": "carrousel", "reseau": "instagram", "ok": true, "simule": false}
 {"quand": "2026-10-02T18:01:57+02:00", "entree": "carrousel-20253533", "type": "carrousel", "reseau": "facebook", "ok": true, "simule": false}
@@ -45,3 +43,5 @@
 {"quand": "2026-11-20T18:01:24+01:00", "entree": "carrousel-21002359", "type": "carrousel", "reseau": "instagram", "ok": true, "simule": false}
 {"quand": "2026-11-20T18:01:51+01:00", "entree": "carrousel-21002359", "type": "carrousel", "reseau": "facebook", "ok": true, "simule": false}
 {"quand": "2026-11-21T12:01:09+01:00", "entree": "reel-21002359", "type": "reel", "reseau": "instagram", "ok": true, "simule": false}
+{"quand": "2026-11-25T18:00:48+01:00", "entree": "baisse-20918676-15900", "type": "carrousel", "reseau": "instagram", "ok": true, "simule": false}
+{"quand": "2026-11-25T18:01:08+01:00", "entree": "baisse-20918676-15900", "type": "carrousel", "reseau": "facebook", "ok": true, "simule": false}
