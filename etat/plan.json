@@ -1,6 +1,6 @@
 {
   "schema": "cac.plan_publication/2",
-  "mis_a_jour_le": "2026-11-27T07:32:04+01:00",
+  "mis_a_jour_le": "2026-11-27T18:01:04+01:00",
   "entrees": [
     {
       "id": "carrousel-20622081",
@@ -1122,14 +1122,15 @@
       "id": "carrousel-21018598",
       "type": "carrousel",
       "titre": "PORSCHE Macan S PDK",
-      "statut": "prevu",
+      "statut": "publie",
       "quand": "2026-11-27T18:00:00+01:00",
+      "publie_le": "2026-11-27T18:00:54+01:00",
       "prix_chf": 49900,
       "variante": "normale",
       "rang": 20,
       "categorie": "car",
       "detecte_le": "2026-11-25T07:30:00+01:00",
-      "pourquoi": "Créneau corporate (lun 09:00 / mer 18:00 / ven 18:00) — 1re de la file, prévu 27.11 à 18:00.",
+      "pourquoi": "Publié 27.11 à 18:00 — date figée, le journal fait foi.",
       "vignette": "https://sdicrosta-gifhub.github.io/cac-apercu/img/21018598_PORSCHE_Macan_S_PDK__1_hero.jpg",
       "diapos": [
         "https://sdicrosta-gifhub.github.io/cac-apercu/img/21018598_PORSCHE_Macan_S_PDK__1_hero.jpg",
@@ -1140,7 +1141,11 @@
         "https://sdicrosta-gifhub.github.io/cac-apercu/img/21018598_PORSCHE_Macan_S_PDK__6_technique.jpg",
         "https://sdicrosta-gifhub.github.io/cac-apercu/img/21018598_PORSCHE_Macan_S_PDK__7_cta.jpg"
       ],
-      "legende": "🚗 Porsche Macan S PDK — CHF 49'900\n2023 · 74'150 km · Essence · Automatique\n\nVoiture en super état - Services suivis - Expertisée du jour - Full Options - 2 Jeux de pneus - Garantie 12 mois Base\n\n👉 Essai sur rendez-vous · 021 731 38 70\nChemin de Mon-Repos 1, 1033 Cheseaux-sur-Lausanne\n\n#carsandcars #occasion #garage #cheseaux #lausanne #porsche"
+      "legende": "🚗 Porsche Macan S PDK — CHF 49'900\n2023 · 74'150 km · Essence · Automatique\n\nVoiture en super état - Services suivis - Expertisée du jour - Full Options - 2 Jeux de pneus - Garantie 12 mois Base\n\n👉 Essai sur rendez-vous · 021 731 38 70\nChemin de Mon-Repos 1, 1033 Cheseaux-sur-Lausanne\n\n#carsandcars #occasion #garage #cheseaux #lausanne #porsche",
+      "media": {
+        "facebook": "106433960005560_1764047332394167",
+        "instagram": "18063720827805433"
+      }
     },
     {
       "id": "reel-21018598",
