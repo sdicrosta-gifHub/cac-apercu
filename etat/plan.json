@@ -1,6 +1,6 @@
 {
   "schema": "cac.plan_publication/2",
-  "mis_a_jour_le": "2026-11-28T07:31:52+01:00",
+  "mis_a_jour_le": "2026-11-28T12:01:05+01:00",
   "entrees": [
     {
       "id": "carrousel-20622081",
@@ -1151,17 +1151,21 @@
       "id": "reel-21018598",
       "type": "reel",
       "titre": "PORSCHE Macan S PDK",
-      "statut": "prevu",
+      "statut": "publie",
       "quand": "2026-11-28T12:00:00+01:00",
+      "publie_le": "2026-11-28T12:01:05+01:00",
       "prix_chf": 49900,
       "detecte_le": "2026-11-25T07:30:00+01:00",
-      "pourquoi": "Reel : il part le lendemain de son carrousel, à 12:00.",
+      "pourquoi": "Publié 28.11 à 12:01 — date figée, le journal fait foi.",
       "vignette": "https://sdicrosta-gifhub.github.io/cac-apercu/affiches/reel_21018598.jpg",
       "diapos": [],
       "video": "https://sdicrosta-gifhub.github.io/cac-apercu/img/REEL_21018598__reel_21018598.mp4",
       "video_fb": "https://sdicrosta-gifhub.github.io/cac-apercu/img/REEL_21018598__reel_21018598_sans_musique.mp4",
       "legende_fb": "🚗 Porsche Macan S PDK — CHF 49'900\n2023 · 74'150 km · Essence · Automatique\n\nVoiture en super état - Services suivis - Expertisée du jour - Full Options - 2 Jeux de pneus - Garantie 12 mois Base\n\n👉 Essai sur rendez-vous · 021 731 38 70\nChemin de Mon-Repos 1, 1033 Cheseaux-sur-Lausanne\n\n#carsandcars #occasion #garage #cheseaux #lausanne #porsche",
-      "legende": "🚗 Porsche Macan S PDK — CHF 49'900\n2023 · 74'150 km · Essence · Automatique\n\nVoiture en super état - Services suivis - Expertisée du jour - Full Options - 2 Jeux de pneus - Garantie 12 mois Base\n\n👉 Essai sur rendez-vous · 021 731 38 70\nChemin de Mon-Repos 1, 1033 Cheseaux-sur-Lausanne\n\n#carsandcars #occasion #garage #cheseaux #lausanne #porsche"
+      "legende": "🚗 Porsche Macan S PDK — CHF 49'900\n2023 · 74'150 km · Essence · Automatique\n\nVoiture en super état - Services suivis - Expertisée du jour - Full Options - 2 Jeux de pneus - Garantie 12 mois Base\n\n👉 Essai sur rendez-vous · 021 731 38 70\nChemin de Mon-Repos 1, 1033 Cheseaux-sur-Lausanne\n\n#carsandcars #occasion #garage #cheseaux #lausanne #porsche",
+      "media": {
+        "instagram": "18105637337561136"
+      }
     }
   ]
 }
